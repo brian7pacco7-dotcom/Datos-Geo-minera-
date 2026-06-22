@@ -1,0 +1,51 @@
+[
+{
+"id": "iperc",
+"tema": "Seguridad minera",
+"titulo": "IPERC",
+"keywords": ["iperc", "peligros", "riesgos", "controles", "seguridad minera"],
+"contenido": "El IPERC significa Identificación de Peligros, Evaluación de Riesgos y Controles. En minería se utiliza para reconocer los peligros presentes en una actividad, evaluar el nivel de riesgo y establecer medidas de control para evitar accidentes. Es una herramienta básica de seguridad antes de realizar trabajos en mina, planta, talleres o campo."
+},
+{
+"id": "petitorio_minero",
+"tema": "Legislación minera",
+"titulo": "Petitorio minero",
+"keywords": ["petitorio", "petitorio minero", "concesión minera", "derecho minero"],
+"contenido": "El petitorio minero es la solicitud que presenta una persona natural o jurídica para obtener una concesión minera. Mediante este trámite se pide al Estado el derecho para explorar y explotar recursos minerales en un área determinada, cumpliendo los requisitos establecidos por la legislación minera."
+},
+{
+"id": "serfor",
+"tema": "Instituciones",
+"titulo": "SERFOR",
+"keywords": ["serfor", "forestal", "fauna silvestre", "perú"],
+"contenido": "El SERFOR es el Servicio Nacional Forestal y de Fauna Silvestre del Perú. Es la autoridad encargada de promover, regular y supervisar la gestión sostenible de los recursos forestales y de fauna silvestre. En proyectos mineros puede intervenir cuando las actividades se relacionan con áreas forestales, flora, fauna o permisos ambientales vinculados."
+},
+{
+"id": "azimut",
+"tema": "Topografía",
+"titulo": "Azimut",
+"keywords": ["azimut", "topografía", "rumbo", "ángulo", "norte"],
+"contenido": "El azimut es el ángulo horizontal medido desde el norte en sentido horario hasta una línea o dirección determinada. Su valor va de 0 grados a 360 grados. En topografía se utiliza para orientar líneas, calcular rumbos, levantar planos y ubicar puntos en el terreno."
+},
+{
+"id": "rumbo",
+"tema": "Topografía",
+"titulo": "Rumbo",
+"keywords": ["rumbo", "azimut", "cuadrante", "topografía"],
+"contenido": "El rumbo es la dirección de una línea expresada desde el norte o desde el sur hacia el este u oeste, usando un ángulo menor o igual a 90 grados. Se representa por cuadrantes, por ejemplo N 45° E o S 30° O. Sirve para describir direcciones en trabajos topográficos."
+},
+{
+"id": "cuarzo",
+"tema": "Mineralogía",
+"titulo": "Cuarzo",
+"keywords": ["cuarzo", "sio2", "mineral", "silicato"],
+"contenido": "El cuarzo es un mineral compuesto por dióxido de silicio, cuya fórmula química es SiO2. Es uno de los minerales más abundantes de la corteza terrestre. Presenta dureza 7 en la escala de Mohs y puede encontrarse en rocas ígneas, sedimentarias y metamórficas."
+},
+{
+"id": "pirita",
+"tema": "Mineralogía",
+"titulo": "Pirita",
+"keywords": ["pirita", "fes2", "sulfuro", "mineral"],
+"contenido": "La pirita es un mineral de sulfuro de hierro, cuya fórmula química es FeS2. Tiene brillo metálico y color amarillo latón, por lo que a veces se le conoce como el oro de los tontos. Es común en ambientes hidrotermales y puede aparecer asociada a yacimientos minerales."
+}
+]
