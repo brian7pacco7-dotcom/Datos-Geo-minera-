@@ -1,0 +1,4122 @@
+[
+  {
+    "id": "topografia_superficial_concepto_0001",
+    "tema": "Topografía Superficial",
+    "titulo": "Concepto de topografía superficial",
+    "preguntas": [
+      "¿Qué es topografía superficial?",
+      "Explícame Concepto de topografía superficial.",
+      "Define Concepto de topografía superficial."
+    ],
+    "variantes": [
+      "topografia superficial",
+      "topografía superficial",
+      "topografia de superficie",
+      "superficie topografica",
+      "topografia superfacial",
+      "qué es topografía superficial"
+    ],
+    "aliases": [
+      "topografía",
+      "superficial"
+    ],
+    "keywords": [
+      "topografia",
+      "terreno",
+      "superficie"
+    ],
+    "contenido": "La topografía superficial estudia y representa la superficie del terreno mediante mediciones de puntos, distancias, ángulos, desniveles y cotas."
+  },
+  {
+    "id": "levantamiento_topografico_concepto_0002",
+    "tema": "Topografía Superficial",
+    "titulo": "Concepto de levantamiento topográfico",
+    "preguntas": [
+      "¿Qué es un levantamiento topográfico?",
+      "Explícame Concepto de levantamiento topográfico.",
+      "Define Concepto de levantamiento topográfico."
+    ],
+    "variantes": [
+      "levantamiento topografico",
+      "levantamiento topográfico",
+      "levantamiento de terreno",
+      "levantamiento superficial",
+      "levantar terreno",
+      "qué es un levantamiento topográfico"
+    ],
+    "aliases": [
+      "levantamiento",
+      "levantamiento topográfico"
+    ],
+    "keywords": [
+      "levantamiento",
+      "terreno",
+      "plano"
+    ],
+    "contenido": "Un levantamiento topográfico es el conjunto de mediciones realizadas en campo para representar el terreno en un plano."
+  },
+  {
+    "id": "levantamiento_topografico_utilidad_0003",
+    "tema": "Topografía Superficial",
+    "titulo": "Utilidad del levantamiento topográfico",
+    "preguntas": [
+      "¿Para qué sirve un levantamiento topográfico?",
+      "Explícame Utilidad del levantamiento topográfico.",
+      "Define Utilidad del levantamiento topográfico."
+    ],
+    "variantes": [
+      "para que sirve levantamiento",
+      "utilidad del levantamiento",
+      "uso del levantamiento topografico",
+      "levantamiento para que sirve",
+      "para qué sirve un levantamiento topográfico"
+    ],
+    "aliases": [
+      "utilidad",
+      "sirve"
+    ],
+    "keywords": [
+      "levantamiento",
+      "uso",
+      "plano"
+    ],
+    "contenido": "Sirve para elaborar planos, ubicar puntos, conocer distancias, desniveles, límites y apoyar obras de minería, construcción y caminos."
+  },
+  {
+    "id": "datos_levantamiento_0004",
+    "tema": "Topografía Superficial",
+    "titulo": "Datos de un levantamiento topográfico",
+    "preguntas": [
+      "¿Qué datos se toman en un levantamiento topográfico?",
+      "Explícame Datos de un levantamiento topográfico.",
+      "Define Datos de un levantamiento topográfico."
+    ],
+    "variantes": [
+      "datos del levantamiento",
+      "que datos se toman",
+      "datos de campo",
+      "datos topograficos",
+      "qué datos se toman en un levantamiento topográfico"
+    ],
+    "aliases": [
+      "datos",
+      "campo"
+    ],
+    "keywords": [
+      "puntos",
+      "distancias",
+      "angulos"
+    ],
+    "contenido": "Se toman puntos, distancias, ángulos, cotas, coordenadas, detalles del terreno, límites y observaciones de campo."
+  },
+  {
+    "id": "instrumentos_levantamiento_0005",
+    "tema": "Topografía Superficial",
+    "titulo": "Instrumentos del levantamiento topográfico",
+    "preguntas": [
+      "¿Qué instrumentos se usan en un levantamiento topográfico?",
+      "Explícame Instrumentos del levantamiento topográfico.",
+      "Define Instrumentos del levantamiento topográfico."
+    ],
+    "variantes": [
+      "instrumentos de levantamiento",
+      "equipos topograficos",
+      "herramientas topograficas",
+      "con que se mide terreno",
+      "qué instrumentos se usan en un levantamiento topográfico"
+    ],
+    "aliases": [
+      "instrumentos",
+      "equipos"
+    ],
+    "keywords": [
+      "nivel",
+      "gps",
+      "estacion total",
+      "cinta"
+    ],
+    "contenido": "Se pueden usar cinta métrica, jalones, brújula, GPS, nivel, mira, estación total, prisma y libreta de campo."
+  },
+  {
+    "id": "plano_topografico_0006",
+    "tema": "Topografía Superficial",
+    "titulo": "Plano topográfico",
+    "preguntas": [
+      "¿Qué es un plano topográfico?",
+      "Explícame Plano topográfico.",
+      "Define Plano topográfico."
+    ],
+    "variantes": [
+      "plano topografico",
+      "plano de terreno",
+      "mapa topografico",
+      "representacion del terreno",
+      "qué es un plano topográfico"
+    ],
+    "aliases": [
+      "plano",
+      "mapa"
+    ],
+    "keywords": [
+      "plano",
+      "representacion",
+      "terreno"
+    ],
+    "contenido": "Un plano topográfico es la representación gráfica del terreno con puntos, curvas de nivel, cotas, límites, distancias y detalles."
+  },
+  {
+    "id": "levantamiento_plano_diferencia_0007",
+    "tema": "Topografía Superficial",
+    "titulo": "Diferencia entre levantamiento y plano",
+    "preguntas": [
+      "¿Cuál es la diferencia entre levantamiento topográfico y plano topográfico?",
+      "Explícame Diferencia entre levantamiento y plano.",
+      "Define Diferencia entre levantamiento y plano."
+    ],
+    "variantes": [
+      "diferencia levantamiento plano",
+      "levantamiento y plano",
+      "plano y levantamiento diferencia",
+      "cuál es la diferencia entre levantamiento topográfico y plano topográfico"
+    ],
+    "aliases": [
+      "diferencia",
+      "plano"
+    ],
+    "keywords": [
+      "levantamiento",
+      "plano"
+    ],
+    "contenido": "El levantamiento es el trabajo de medición en campo; el plano es el resultado gráfico elaborado con esos datos."
+  },
+  {
+    "id": "estacion_topografia_0008",
+    "tema": "Topografía Superficial",
+    "titulo": "Estación en topografía",
+    "preguntas": [
+      "¿Qué es una estación en topografía?",
+      "Explícame Estación en topografía.",
+      "Define Estación en topografía."
+    ],
+    "variantes": [
+      "estacion topografica",
+      "estacion en topografia",
+      "punto de estacion",
+      "estacion total punto",
+      "qué es una estación en topografía"
+    ],
+    "aliases": [
+      "estación",
+      "punto estación"
+    ],
+    "keywords": [
+      "estacion",
+      "instrumento",
+      "punto"
+    ],
+    "contenido": "Una estación es el punto donde se coloca el instrumento para observar y medir otros puntos del terreno."
+  },
+  {
+    "id": "punto_observado_0009",
+    "tema": "Topografía Superficial",
+    "titulo": "Punto observado",
+    "preguntas": [
+      "¿Qué es un punto observado en topografía?",
+      "Explícame Punto observado.",
+      "Define Punto observado."
+    ],
+    "variantes": [
+      "punto observado",
+      "punto medido",
+      "punto visado",
+      "punto levantado",
+      "qué es un punto observado en topografía"
+    ],
+    "aliases": [
+      "punto",
+      "observado"
+    ],
+    "keywords": [
+      "punto",
+      "medicion",
+      "terreno"
+    ],
+    "contenido": "Un punto observado es un punto del terreno al que se dirige la visual para registrar su posición, distancia, ángulo o cota."
+  },
+  {
+    "id": "detalle_topografico_0010",
+    "tema": "Topografía Superficial",
+    "titulo": "Detalle topográfico",
+    "preguntas": [
+      "¿Qué es un detalle topográfico?",
+      "Explícame Detalle topográfico.",
+      "Define Detalle topográfico."
+    ],
+    "variantes": [
+      "detalle topografico",
+      "detalles del terreno",
+      "detalle en levantamiento",
+      "objetos del terreno",
+      "qué es un detalle topográfico"
+    ],
+    "aliases": [
+      "detalle",
+      "detalles"
+    ],
+    "keywords": [
+      "camino",
+      "quebrada",
+      "cerco",
+      "edificacion"
+    ],
+    "contenido": "Un detalle topográfico es cualquier elemento del terreno que se registra, como caminos, cercos, quebradas, edificaciones, postes o límites."
+  },
+  {
+    "id": "distancia_topografia_concepto_0011",
+    "tema": "Topografía Superficial",
+    "titulo": "Distancia en topografía",
+    "preguntas": [
+      "¿Qué es la distancia en topografía?",
+      "Explícame Distancia en topografía.",
+      "Define Distancia en topografía."
+    ],
+    "variantes": [
+      "distancia topografica",
+      "distancia en topografia",
+      "separacion entre puntos",
+      "distancia de puntos",
+      "qué es la distancia en topografía"
+    ],
+    "aliases": [
+      "distancia"
+    ],
+    "keywords": [
+      "distancia",
+      "puntos"
+    ],
+    "contenido": "La distancia en topografía es la separación medida entre dos puntos del terreno."
+  },
+  {
+    "id": "distancia_horizontal_0012",
+    "tema": "Topografía Superficial",
+    "titulo": "Distancia horizontal",
+    "preguntas": [
+      "¿Qué es distancia horizontal?",
+      "Explícame Distancia horizontal.",
+      "Define Distancia horizontal."
+    ],
+    "variantes": [
+      "distancia horizontal",
+      "medida horizontal",
+      "distancia plana",
+      "distancia en plano",
+      "qué es distancia horizontal"
+    ],
+    "aliases": [
+      "horizontal"
+    ],
+    "keywords": [
+      "distancia",
+      "horizontal"
+    ],
+    "contenido": "La distancia horizontal es la separación entre dos puntos proyectada sobre un plano horizontal, sin considerar la pendiente."
+  },
+  {
+    "id": "distancia_inclinada_0013",
+    "tema": "Topografía Superficial",
+    "titulo": "Distancia inclinada",
+    "preguntas": [
+      "¿Qué es distancia inclinada?",
+      "Explícame Distancia inclinada.",
+      "Define Distancia inclinada."
+    ],
+    "variantes": [
+      "distancia inclinada",
+      "distancia en pendiente",
+      "distancia sobre pendiente",
+      "distancia de talud",
+      "qué es distancia inclinada"
+    ],
+    "aliases": [
+      "inclinada",
+      "pendiente"
+    ],
+    "keywords": [
+      "distancia",
+      "pendiente"
+    ],
+    "contenido": "La distancia inclinada es la medida tomada siguiendo la pendiente natural entre dos puntos del terreno."
+  },
+  {
+    "id": "distancia_vertical_0014",
+    "tema": "Topografía Superficial",
+    "titulo": "Distancia vertical",
+    "preguntas": [
+      "¿Qué es distancia vertical?",
+      "Explícame Distancia vertical.",
+      "Define Distancia vertical."
+    ],
+    "variantes": [
+      "distancia vertical",
+      "diferencia vertical",
+      "altura entre puntos",
+      "desnivel",
+      "qué es distancia vertical"
+    ],
+    "aliases": [
+      "vertical",
+      "desnivel"
+    ],
+    "keywords": [
+      "distancia",
+      "altura",
+      "desnivel"
+    ],
+    "contenido": "La distancia vertical es la diferencia de altura entre dos puntos; también se relaciona con el desnivel."
+  },
+  {
+    "id": "medicion_distancia_campo_0015",
+    "tema": "Topografía Superficial",
+    "titulo": "Medición de distancia en campo",
+    "preguntas": [
+      "¿Cómo se mide una distancia en campo?",
+      "Explícame Medición de distancia en campo.",
+      "Define Medición de distancia en campo."
+    ],
+    "variantes": [
+      "medir distancia",
+      "medicion de distancia",
+      "distancia en campo",
+      "como medir en campo",
+      "cómo se mide una distancia en campo"
+    ],
+    "aliases": [
+      "medición",
+      "campo"
+    ],
+    "keywords": [
+      "cinta",
+      "gps",
+      "estacion total"
+    ],
+    "contenido": "Se mide con cinta, estación total, distanciómetro o GPS, cuidando la alineación, tensión, pendiente y registro correcto."
+  },
+  {
+    "id": "importancia_distancia_0016",
+    "tema": "Topografía Superficial",
+    "titulo": "Importancia de medir distancias",
+    "preguntas": [
+      "¿Por qué es importante medir bien las distancias?",
+      "Explícame Importancia de medir distancias.",
+      "Define Importancia de medir distancias."
+    ],
+    "variantes": [
+      "importancia de distancia",
+      "por que medir bien distancia",
+      "error de distancia",
+      "distancias en levantamiento",
+      "por qué es importante medir bien las distancias"
+    ],
+    "aliases": [
+      "importancia",
+      "precisión"
+    ],
+    "keywords": [
+      "distancia",
+      "error",
+      "plano"
+    ],
+    "contenido": "Es importante porque un error de distancia cambia la forma del terreno, el área, los límites y la ubicación de los puntos."
+  },
+  {
+    "id": "distancia_cinta_0017",
+    "tema": "Topografía Superficial",
+    "titulo": "Medición con cinta métrica",
+    "preguntas": [
+      "¿Cómo se mide con cinta métrica?",
+      "Explícame Medición con cinta métrica.",
+      "Define Medición con cinta métrica."
+    ],
+    "variantes": [
+      "medir con cinta",
+      "cinta metrica",
+      "cinta topografica",
+      "medicion con wincha",
+      "medir con wincha",
+      "cómo se mide con cinta métrica"
+    ],
+    "aliases": [
+      "cinta",
+      "wincha"
+    ],
+    "keywords": [
+      "cinta",
+      "distancia",
+      "alineacion"
+    ],
+    "contenido": "Para medir con cinta se alinean los puntos, se mantiene la cinta recta y tensa, y se registra la distancia evitando inclinación y errores."
+  },
+  {
+    "id": "alineamiento_distancia_0018",
+    "tema": "Topografía Superficial",
+    "titulo": "Alineamiento en medición de distancia",
+    "preguntas": [
+      "¿Qué es alineamiento en topografía?",
+      "Explícame Alineamiento en medición de distancia.",
+      "Define Alineamiento en medición de distancia."
+    ],
+    "variantes": [
+      "alineamiento",
+      "alinear puntos",
+      "alineacion en topografia",
+      "linea recta entre puntos",
+      "qué es alineamiento en topografía"
+    ],
+    "aliases": [
+      "alineamiento"
+    ],
+    "keywords": [
+      "distancia",
+      "recta",
+      "puntos"
+    ],
+    "contenido": "El alineamiento consiste en ubicar los puntos sobre una misma línea recta para medir correctamente la distancia."
+  },
+  {
+    "id": "error_distancia_0019",
+    "tema": "Topografía Superficial",
+    "titulo": "Error en medición de distancia",
+    "preguntas": [
+      "¿Qué errores ocurren al medir distancias?",
+      "Explícame Error en medición de distancia.",
+      "Define Error en medición de distancia."
+    ],
+    "variantes": [
+      "errores de distancia",
+      "error al medir",
+      "distancia mal medida",
+      "mala medicion",
+      "qué errores ocurren al medir distancias"
+    ],
+    "aliases": [
+      "error",
+      "errores"
+    ],
+    "keywords": [
+      "distancia",
+      "cinta",
+      "pendiente"
+    ],
+    "contenido": "Los errores comunes son cinta floja, mala alineación, lectura incorrecta, pendiente no corregida, mala anotación o puntos mal señalados."
+  },
+  {
+    "id": "distancia_inclinada_horizontal_0020",
+    "tema": "Topografía Superficial",
+    "titulo": "Conversión de distancia inclinada a horizontal",
+    "preguntas": [
+      "¿Cómo se obtiene distancia horizontal desde distancia inclinada?",
+      "Explícame Conversión de distancia inclinada a horizontal.",
+      "Define Conversión de distancia inclinada a horizontal."
+    ],
+    "variantes": [
+      "convertir distancia inclinada",
+      "distancia inclinada a horizontal",
+      "distancia horizontal con pendiente",
+      "cómo se obtiene distancia horizontal desde distancia inclinada"
+    ],
+    "aliases": [
+      "conversión",
+      "distancia horizontal"
+    ],
+    "keywords": [
+      "pendiente",
+      "horizontal",
+      "inclinada"
+    ],
+    "contenido": "Si se conoce el ángulo de pendiente, la distancia horizontal se obtiene multiplicando la distancia inclinada por el coseno del ángulo."
+  },
+  {
+    "id": "levantamiento_simple_concepto_0021",
+    "tema": "Topografía Superficial",
+    "titulo": "Concepto de levantamiento simple",
+    "preguntas": [
+      "¿Qué es levantamiento simple?",
+      "Explícame Concepto de levantamiento simple.",
+      "Define Concepto de levantamiento simple."
+    ],
+    "variantes": [
+      "levantamiento simple",
+      "levantamiento sencillo",
+      "levantamiento basico",
+      "levantamiento básico",
+      "qué es levantamiento simple"
+    ],
+    "aliases": [
+      "levantamiento simple"
+    ],
+    "keywords": [
+      "simple",
+      "terreno"
+    ],
+    "contenido": "El levantamiento simple es una medición básica del terreno para ubicar puntos, distancias, límites y detalles principales."
+  },
+  {
+    "id": "levantamiento_simple_utilidad_0022",
+    "tema": "Topografía Superficial",
+    "titulo": "Utilidad del levantamiento simple",
+    "preguntas": [
+      "¿Para qué sirve un levantamiento simple?",
+      "Explícame Utilidad del levantamiento simple.",
+      "Define Utilidad del levantamiento simple."
+    ],
+    "variantes": [
+      "para que sirve levantamiento simple",
+      "uso de levantamiento simple",
+      "utilidad levantamiento simple",
+      "para qué sirve un levantamiento simple"
+    ],
+    "aliases": [
+      "sirve",
+      "utilidad"
+    ],
+    "keywords": [
+      "levantamiento",
+      "simple"
+    ],
+    "contenido": "Sirve para trabajos pequeños donde se requiere reconocer el terreno, medir límites, ubicar puntos y elaborar un croquis o plano básico."
+  },
+  {
+    "id": "instrumentos_levantamiento_simple_0023",
+    "tema": "Topografía Superficial",
+    "titulo": "Instrumentos para levantamiento simple",
+    "preguntas": [
+      "¿Qué instrumentos se usan en un levantamiento simple?",
+      "Explícame Instrumentos para levantamiento simple.",
+      "Define Instrumentos para levantamiento simple."
+    ],
+    "variantes": [
+      "instrumentos levantamiento simple",
+      "equipos levantamiento simple",
+      "cinta jalones brujula",
+      "wincha jalones",
+      "qué instrumentos se usan en un levantamiento simple"
+    ],
+    "aliases": [
+      "instrumentos"
+    ],
+    "keywords": [
+      "cinta",
+      "jalon",
+      "brujula",
+      "gps"
+    ],
+    "contenido": "Se usan instrumentos sencillos como cinta métrica, jalones, estacas, brújula, GPS de mano, libreta y lápiz."
+  },
+  {
+    "id": "cuadro_levantamiento_simple_0024",
+    "tema": "Topografía Superficial",
+    "titulo": "Cuadro de levantamiento simple",
+    "preguntas": [
+      "¿Qué datos contiene un cuadro de levantamiento simple?",
+      "Explícame Cuadro de levantamiento simple.",
+      "Define Cuadro de levantamiento simple."
+    ],
+    "variantes": [
+      "cuadro de levantamiento simple",
+      "datos de levantamiento simple",
+      "tabla de levantamiento",
+      "cuadro de distancia",
+      "qué datos contiene un cuadro de levantamiento simple"
+    ],
+    "aliases": [
+      "cuadro",
+      "tabla"
+    ],
+    "keywords": [
+      "estacion",
+      "punto",
+      "distancia"
+    ],
+    "contenido": "Contiene estación, punto observado, distancia, rumbo o ángulo, observación y descripción del detalle medido."
+  },
+  {
+    "id": "levantamiento_simple_completo_diferencia_0025",
+    "tema": "Topografía Superficial",
+    "titulo": "Diferencia entre levantamiento simple y completo",
+    "preguntas": [
+      "¿Cuál es la diferencia entre levantamiento simple y levantamiento completo?",
+      "Explícame Diferencia entre levantamiento simple y completo.",
+      "Define Diferencia entre levantamiento simple y completo."
+    ],
+    "variantes": [
+      "diferencia levantamiento simple completo",
+      "levantamiento simple y completo",
+      "simple vs completo",
+      "cuál es la diferencia entre levantamiento simple y levantamiento completo"
+    ],
+    "aliases": [
+      "diferencia"
+    ],
+    "keywords": [
+      "simple",
+      "completo"
+    ],
+    "contenido": "El simple usa mediciones básicas para trabajos pequeños; el completo usa más puntos, equipos precisos, coordenadas y procesamiento detallado."
+  },
+  {
+    "id": "croquis_campo_0026",
+    "tema": "Topografía Superficial",
+    "titulo": "Croquis de campo",
+    "preguntas": [
+      "¿Qué es un croquis de campo?",
+      "Explícame Croquis de campo.",
+      "Define Croquis de campo."
+    ],
+    "variantes": [
+      "croquis de campo",
+      "croquis topografico",
+      "dibujo de campo",
+      "bosquejo del terreno",
+      "qué es un croquis de campo"
+    ],
+    "aliases": [
+      "croquis"
+    ],
+    "keywords": [
+      "dibujo",
+      "campo",
+      "terreno"
+    ],
+    "contenido": "El croquis de campo es un dibujo rápido del terreno que ayuda a ubicar puntos, detalles, distancias, límites y referencias."
+  },
+  {
+    "id": "libreta_campo_0027",
+    "tema": "Topografía Superficial",
+    "titulo": "Libreta de campo",
+    "preguntas": [
+      "¿Qué es la libreta de campo?",
+      "Explícame Libreta de campo.",
+      "Define Libreta de campo."
+    ],
+    "variantes": [
+      "libreta de campo",
+      "cuaderno de campo",
+      "registro de campo",
+      "anotaciones topograficas",
+      "qué es la libreta de campo"
+    ],
+    "aliases": [
+      "libreta",
+      "cuaderno"
+    ],
+    "keywords": [
+      "datos",
+      "campo",
+      "registro"
+    ],
+    "contenido": "La libreta de campo sirve para registrar lecturas, puntos, distancias, observaciones, errores y datos tomados durante el levantamiento."
+  },
+  {
+    "id": "estacas_jalones_0028",
+    "tema": "Topografía Superficial",
+    "titulo": "Estacas y jalones",
+    "preguntas": [
+      "¿Para qué sirven las estacas y jalones?",
+      "Explícame Estacas y jalones.",
+      "Define Estacas y jalones."
+    ],
+    "variantes": [
+      "estacas y jalones",
+      "jalones topografia",
+      "estacas topograficas",
+      "marcar puntos",
+      "para qué sirven las estacas y jalones"
+    ],
+    "aliases": [
+      "estacas",
+      "jalones"
+    ],
+    "keywords": [
+      "marcar",
+      "puntos"
+    ],
+    "contenido": "Las estacas y jalones sirven para señalar puntos, alinear mediciones y marcar límites o referencias en el terreno."
+  },
+  {
+    "id": "rumbo_levantamiento_0029",
+    "tema": "Topografía Superficial",
+    "titulo": "Rumbo en levantamiento simple",
+    "preguntas": [
+      "¿Qué es el rumbo en topografía?",
+      "Explícame Rumbo en levantamiento simple.",
+      "Define Rumbo en levantamiento simple."
+    ],
+    "variantes": [
+      "rumbo topografico",
+      "rumbo en levantamiento",
+      "direccion de una linea",
+      "rumbo de linea",
+      "qué es el rumbo en topografía"
+    ],
+    "aliases": [
+      "rumbo"
+    ],
+    "keywords": [
+      "direccion",
+      "linea"
+    ],
+    "contenido": "El rumbo indica la dirección de una línea respecto al norte o sur, expresada hacia el este u oeste."
+  },
+  {
+    "id": "azimut_levantamiento_0030",
+    "tema": "Topografía Superficial",
+    "titulo": "Azimut en levantamiento",
+    "preguntas": [
+      "¿Qué es el azimut en topografía?",
+      "Explícame Azimut en levantamiento.",
+      "Define Azimut en levantamiento."
+    ],
+    "variantes": [
+      "azimut",
+      "acimut",
+      "azimut topografico",
+      "angulo desde el norte",
+      "qué es el azimut en topografía"
+    ],
+    "aliases": [
+      "azimut",
+      "acimut"
+    ],
+    "keywords": [
+      "angulo",
+      "norte",
+      "direccion"
+    ],
+    "contenido": "El azimut es el ángulo horizontal medido desde el norte en sentido horario hasta la línea observada."
+  },
+  {
+    "id": "nivelacion_concepto_0031",
+    "tema": "Topografía Superficial",
+    "titulo": "Concepto de nivelación",
+    "preguntas": [
+      "¿Qué es la nivelación topográfica?",
+      "Explícame Concepto de nivelación.",
+      "Define Concepto de nivelación."
+    ],
+    "variantes": [
+      "nivelacion",
+      "nivelación",
+      "nivelacion topografica",
+      "nivelar terreno",
+      "qué es la nivelación topográfica"
+    ],
+    "aliases": [
+      "nivelación"
+    ],
+    "keywords": [
+      "cota",
+      "altura",
+      "desnivel"
+    ],
+    "contenido": "La nivelación es el procedimiento topográfico que permite determinar diferencias de altura y calcular cotas de puntos del terreno."
+  },
+  {
+    "id": "nivelacion_utilidad_0032",
+    "tema": "Topografía Superficial",
+    "titulo": "Utilidad de la nivelación",
+    "preguntas": [
+      "¿Para qué sirve la nivelación?",
+      "Explícame Utilidad de la nivelación.",
+      "Define Utilidad de la nivelación."
+    ],
+    "variantes": [
+      "para que sirve nivelacion",
+      "uso de la nivelacion",
+      "nivelacion para que sirve",
+      "para qué sirve la nivelación"
+    ],
+    "aliases": [
+      "utilidad",
+      "sirve"
+    ],
+    "keywords": [
+      "nivelacion",
+      "cotas"
+    ],
+    "contenido": "Sirve para conocer cotas, desniveles y pendientes, y se usa en carreteras, canales, minería, construcción y drenajes."
+  },
+  {
+    "id": "cota_concepto_0033",
+    "tema": "Topografía Superficial",
+    "titulo": "Cota",
+    "preguntas": [
+      "¿Qué es una cota?",
+      "Explícame Cota.",
+      "Define Cota."
+    ],
+    "variantes": [
+      "cota",
+      "cuota",
+      "cota topografica",
+      "altura de punto",
+      "elevacion de punto",
+      "qué es una cota"
+    ],
+    "aliases": [
+      "cota",
+      "cuota"
+    ],
+    "keywords": [
+      "altura",
+      "elevacion"
+    ],
+    "contenido": "La cota es la altura o elevación de un punto respecto a un nivel de referencia."
+  },
+  {
+    "id": "bm_concepto_0034",
+    "tema": "Topografía Superficial",
+    "titulo": "Banco de nivel",
+    "preguntas": [
+      "¿Qué es un banco de nivel?",
+      "Explícame Banco de nivel.",
+      "Define Banco de nivel."
+    ],
+    "variantes": [
+      "banco de nivel",
+      "BM",
+      "be eme",
+      "benchmark",
+      "bench mark",
+      "punto de referencia",
+      "qué es un banco de nivel"
+    ],
+    "aliases": [
+      "BM",
+      "banco"
+    ],
+    "keywords": [
+      "referencia",
+      "cota conocida"
+    ],
+    "contenido": "Un banco de nivel o BM es un punto fijo de cota conocida que sirve como referencia para una nivelación."
+  },
+  {
+    "id": "vista_atras_0035",
+    "tema": "Topografía Superficial",
+    "titulo": "Vista atrás",
+    "preguntas": [
+      "¿Qué es vista atrás?",
+      "Explícame Vista atrás.",
+      "Define Vista atrás."
+    ],
+    "variantes": [
+      "vista atras",
+      "vista atrás",
+      "lectura atras",
+      "lectura atrás",
+      "VA",
+      "ve a",
+      "qué es vista atrás"
+    ],
+    "aliases": [
+      "VA",
+      "vista atrás"
+    ],
+    "keywords": [
+      "lectura",
+      "cota conocida"
+    ],
+    "contenido": "La vista atrás es la lectura tomada sobre un punto de cota conocida; sirve para calcular la altura de instrumento."
+  },
+  {
+    "id": "vista_adelante_0036",
+    "tema": "Topografía Superficial",
+    "titulo": "Vista adelante",
+    "preguntas": [
+      "¿Qué es vista adelante?",
+      "Explícame Vista adelante.",
+      "Define Vista adelante."
+    ],
+    "variantes": [
+      "vista adelante",
+      "lectura adelante",
+      "VF",
+      "vista final",
+      "lectura final",
+      "qué es vista adelante"
+    ],
+    "aliases": [
+      "VF",
+      "vista adelante"
+    ],
+    "keywords": [
+      "lectura",
+      "punto"
+    ],
+    "contenido": "La vista adelante es la lectura tomada sobre un punto cuya cota se quiere calcular o sobre un cambio de punto."
+  },
+  {
+    "id": "vista_intermedia_0037",
+    "tema": "Topografía Superficial",
+    "titulo": "Vista intermedia",
+    "preguntas": [
+      "¿Qué es vista intermedia?",
+      "Explícame Vista intermedia.",
+      "Define Vista intermedia."
+    ],
+    "variantes": [
+      "vista intermedia",
+      "lectura intermedia",
+      "VI",
+      "punto intermedio",
+      "qué es vista intermedia"
+    ],
+    "aliases": [
+      "VI",
+      "vista intermedia"
+    ],
+    "keywords": [
+      "lectura",
+      "intermedio"
+    ],
+    "contenido": "La vista intermedia es la lectura tomada a un punto adicional sin cambiar la posición del instrumento."
+  },
+  {
+    "id": "altura_instrumento_0038",
+    "tema": "Topografía Superficial",
+    "titulo": "Altura de instrumento",
+    "preguntas": [
+      "¿Qué es altura de instrumento?",
+      "Explícame Altura de instrumento.",
+      "Define Altura de instrumento."
+    ],
+    "variantes": [
+      "altura de instrumento",
+      "altura instrumental",
+      "AI",
+      "a i",
+      "cota instrumental",
+      "qué es altura de instrumento"
+    ],
+    "aliases": [
+      "AI",
+      "altura instrumento"
+    ],
+    "keywords": [
+      "instrumento",
+      "nivel",
+      "visual"
+    ],
+    "contenido": "La altura de instrumento es la cota de la línea visual del nivel; se obtiene sumando cota conocida más vista atrás."
+  },
+  {
+    "id": "formula_ai_0039",
+    "tema": "Topografía Superficial",
+    "titulo": "Fórmula de altura de instrumento",
+    "preguntas": [
+      "¿Cuál es la fórmula de altura de instrumento?",
+      "Explícame Fórmula de altura de instrumento.",
+      "Define Fórmula de altura de instrumento."
+    ],
+    "variantes": [
+      "formula de altura instrumento",
+      "AI formula",
+      "calcular altura de instrumento",
+      "altura instrumento formula",
+      "cuál es la fórmula de altura de instrumento"
+    ],
+    "aliases": [
+      "fórmula AI"
+    ],
+    "keywords": [
+      "AI",
+      "VA",
+      "cota"
+    ],
+    "contenido": "La fórmula es: AI igual cota conocida más vista atrás. AI = Cota + VA."
+  },
+  {
+    "id": "formula_cota_0040",
+    "tema": "Topografía Superficial",
+    "titulo": "Fórmula para calcular cota",
+    "preguntas": [
+      "¿Cuál es la fórmula para calcular cota?",
+      "Explícame Fórmula para calcular cota.",
+      "Define Fórmula para calcular cota."
+    ],
+    "variantes": [
+      "formula de cota",
+      "calcular cota",
+      "como sacar cota",
+      "cota formula",
+      "hallar cota",
+      "cuál es la fórmula para calcular cota"
+    ],
+    "aliases": [
+      "fórmula cota"
+    ],
+    "keywords": [
+      "cota",
+      "AI",
+      "lectura"
+    ],
+    "contenido": "La fórmula es: Cota igual altura de instrumento menos lectura. Cota = AI - lectura."
+  },
+  {
+    "id": "desnivel_concepto_0041",
+    "tema": "Topografía Superficial",
+    "titulo": "Desnivel",
+    "preguntas": [
+      "¿Qué es el desnivel?",
+      "Explícame Desnivel.",
+      "Define Desnivel."
+    ],
+    "variantes": [
+      "desnivel",
+      "diferencia de nivel",
+      "diferencia de altura",
+      "desnivel topografico",
+      "qué es el desnivel"
+    ],
+    "aliases": [
+      "desnivel"
+    ],
+    "keywords": [
+      "altura",
+      "cota"
+    ],
+    "contenido": "El desnivel es la diferencia de altura entre dos puntos del terreno."
+  },
+  {
+    "id": "pendiente_concepto_0042",
+    "tema": "Topografía Superficial",
+    "titulo": "Pendiente",
+    "preguntas": [
+      "¿Qué es pendiente en topografía?",
+      "Explícame Pendiente.",
+      "Define Pendiente."
+    ],
+    "variantes": [
+      "pendiente topografica",
+      "pendiente",
+      "inclinacion del terreno",
+      "declive",
+      "qué es pendiente en topografía"
+    ],
+    "aliases": [
+      "pendiente"
+    ],
+    "keywords": [
+      "desnivel",
+      "distancia"
+    ],
+    "contenido": "La pendiente es la inclinación del terreno y se calcula relacionando el desnivel con la distancia horizontal."
+  },
+  {
+    "id": "formula_pendiente_0043",
+    "tema": "Topografía Superficial",
+    "titulo": "Fórmula de pendiente",
+    "preguntas": [
+      "¿Cuál es la fórmula de pendiente?",
+      "Explícame Fórmula de pendiente.",
+      "Define Fórmula de pendiente."
+    ],
+    "variantes": [
+      "formula pendiente",
+      "calcular pendiente",
+      "pendiente en porcentaje",
+      "pendiente porcentaje",
+      "cuál es la fórmula de pendiente"
+    ],
+    "aliases": [
+      "pendiente"
+    ],
+    "keywords": [
+      "desnivel",
+      "distancia"
+    ],
+    "contenido": "La pendiente en porcentaje se calcula: pendiente igual desnivel dividido entre distancia horizontal por cien."
+  },
+  {
+    "id": "nivel_optico_0044",
+    "tema": "Topografía Superficial",
+    "titulo": "Nivel óptico",
+    "preguntas": [
+      "¿Qué es un nivel óptico?",
+      "Explícame Nivel óptico.",
+      "Define Nivel óptico."
+    ],
+    "variantes": [
+      "nivel optico",
+      "nivel automatico",
+      "instrumento de nivelacion",
+      "nivel de ingeniero",
+      "qué es un nivel óptico"
+    ],
+    "aliases": [
+      "nivel óptico"
+    ],
+    "keywords": [
+      "nivel",
+      "mira"
+    ],
+    "contenido": "El nivel óptico es un instrumento que permite lanzar una visual horizontal para leer la mira y calcular cotas."
+  },
+  {
+    "id": "mira_topografica_0045",
+    "tema": "Topografía Superficial",
+    "titulo": "Mira topográfica",
+    "preguntas": [
+      "¿Qué es una mira topográfica?",
+      "Explícame Mira topográfica.",
+      "Define Mira topográfica."
+    ],
+    "variantes": [
+      "mira topografica",
+      "mira de nivelacion",
+      "estadia",
+      "regla de nivelacion",
+      "qué es una mira topográfica"
+    ],
+    "aliases": [
+      "mira",
+      "estadía"
+    ],
+    "keywords": [
+      "lectura",
+      "nivel"
+    ],
+    "contenido": "La mira topográfica es una regla graduada que se coloca verticalmente sobre puntos para tomar lecturas de nivelación."
+  },
+  {
+    "id": "nivelacion_geometrica_0046",
+    "tema": "Topografía Superficial",
+    "titulo": "Nivelación geométrica",
+    "preguntas": [
+      "¿Qué es nivelación geométrica?",
+      "Explícame Nivelación geométrica.",
+      "Define Nivelación geométrica."
+    ],
+    "variantes": [
+      "nivelacion geometrica",
+      "nivelación geométrica",
+      "nivelacion directa",
+      "nivelacion con nivel",
+      "qué es nivelación geométrica"
+    ],
+    "aliases": [
+      "geométrica"
+    ],
+    "keywords": [
+      "nivelacion",
+      "nivel",
+      "mira"
+    ],
+    "contenido": "La nivelación geométrica determina cotas usando un nivel y una mira, mediante lecturas de vista atrás, intermedia y adelante."
+  },
+  {
+    "id": "nivelacion_simple_0047",
+    "tema": "Topografía Superficial",
+    "titulo": "Nivelación simple",
+    "preguntas": [
+      "¿Qué es nivelación simple?",
+      "Explícame Nivelación simple.",
+      "Define Nivelación simple."
+    ],
+    "variantes": [
+      "nivelacion simple",
+      "nivelación simple",
+      "nivelacion con una estacion",
+      "una estacion",
+      "qué es nivelación simple"
+    ],
+    "aliases": [
+      "simple"
+    ],
+    "keywords": [
+      "nivelacion",
+      "estacion"
+    ],
+    "contenido": "La nivelación simple se realiza desde una sola posición del instrumento cuando se observan todos los puntos necesarios."
+  },
+  {
+    "id": "nivelacion_compuesta_0048",
+    "tema": "Topografía Superficial",
+    "titulo": "Nivelación compuesta",
+    "preguntas": [
+      "¿Qué es nivelación compuesta?",
+      "Explícame Nivelación compuesta.",
+      "Define Nivelación compuesta."
+    ],
+    "variantes": [
+      "nivelacion compuesta",
+      "nivelación compuesta",
+      "varias estaciones",
+      "muchos cambios de punto",
+      "qué es nivelación compuesta"
+    ],
+    "aliases": [
+      "compuesta"
+    ],
+    "keywords": [
+      "nivelacion",
+      "cambio punto"
+    ],
+    "contenido": "La nivelación compuesta usa varias posiciones del instrumento y cambios de punto para continuar el recorrido."
+  },
+  {
+    "id": "comprobacion_nivelacion_0049",
+    "tema": "Topografía Superficial",
+    "titulo": "Comprobación de nivelación",
+    "preguntas": [
+      "¿Cómo se comprueba una nivelación?",
+      "Explícame Comprobación de nivelación.",
+      "Define Comprobación de nivelación."
+    ],
+    "variantes": [
+      "comprobar nivelacion",
+      "verificar nivelacion",
+      "cierre de nivelacion",
+      "error de cierre",
+      "cómo se comprueba una nivelación"
+    ],
+    "aliases": [
+      "comprobación",
+      "cierre"
+    ],
+    "keywords": [
+      "error",
+      "cotas"
+    ],
+    "contenido": "Se comprueba comparando cotas calculadas, sumas de vistas atrás y adelante, o cerrando en un punto de cota conocida."
+  },
+  {
+    "id": "error_cierre_0050",
+    "tema": "Topografía Superficial",
+    "titulo": "Error de cierre",
+    "preguntas": [
+      "¿Qué es error de cierre en nivelación?",
+      "Explícame Error de cierre.",
+      "Define Error de cierre."
+    ],
+    "variantes": [
+      "error de cierre",
+      "cierre de nivelacion",
+      "diferencia de cierre",
+      "error final",
+      "qué es error de cierre en nivelación"
+    ],
+    "aliases": [
+      "error cierre"
+    ],
+    "keywords": [
+      "error",
+      "nivelacion"
+    ],
+    "contenido": "El error de cierre es la diferencia entre la cota calculada y la cota conocida al terminar una nivelación."
+  },
+  {
+    "id": "cambio_punto_concepto_0051",
+    "tema": "Topografía Superficial",
+    "titulo": "Cambio de punto",
+    "preguntas": [
+      "¿Qué es cambio de punto en nivelación?",
+      "Explícame Cambio de punto.",
+      "Define Cambio de punto."
+    ],
+    "variantes": [
+      "cambio de punto",
+      "punto de cambio",
+      "CP",
+      "ce pe",
+      "cambio de estacion",
+      "cambio en nivelacion",
+      "qué es cambio de punto en nivelación"
+    ],
+    "aliases": [
+      "CP",
+      "punto de cambio"
+    ],
+    "keywords": [
+      "nivelacion",
+      "estacion"
+    ],
+    "contenido": "El cambio de punto es un punto auxiliar usado para trasladar la referencia de altura cuando se cambia la posición del instrumento."
+  },
+  {
+    "id": "cambio_punto_utilidad_0052",
+    "tema": "Topografía Superficial",
+    "titulo": "Utilidad del cambio de punto",
+    "preguntas": [
+      "¿Para qué sirve el cambio de punto?",
+      "Explícame Utilidad del cambio de punto.",
+      "Define Utilidad del cambio de punto."
+    ],
+    "variantes": [
+      "para que sirve cambio de punto",
+      "uso de punto de cambio",
+      "cuando sirve CP",
+      "utilidad del cambio",
+      "para qué sirve el cambio de punto"
+    ],
+    "aliases": [
+      "utilidad CP"
+    ],
+    "keywords": [
+      "cambio punto",
+      "nivelacion"
+    ],
+    "contenido": "Sirve para continuar la nivelación sin perder la referencia de cota cuando ya no se pueden observar más puntos desde una estación."
+  },
+  {
+    "id": "cuando_cambio_punto_0053",
+    "tema": "Topografía Superficial",
+    "titulo": "Cuándo usar cambio de punto",
+    "preguntas": [
+      "¿Cuándo se usa cambio de punto?",
+      "Explícame Cuándo usar cambio de punto.",
+      "Define Cuándo usar cambio de punto."
+    ],
+    "variantes": [
+      "cuando se usa cambio de punto",
+      "cuando usar CP",
+      "por que cambiar punto",
+      "cambio de estacion",
+      "cuándo se usa cambio de punto"
+    ],
+    "aliases": [
+      "cuándo CP"
+    ],
+    "keywords": [
+      "visibilidad",
+      "avance"
+    ],
+    "contenido": "Se usa cuando hay mucha distancia, obstáculos, desnivel, falta de visibilidad o cuando se necesita avanzar con el instrumento."
+  },
+  {
+    "id": "nueva_ai_cp_0054",
+    "tema": "Topografía Superficial",
+    "titulo": "Nueva altura de instrumento en cambio de punto",
+    "preguntas": [
+      "¿Cómo se calcula nueva AI después de un cambio de punto?",
+      "Explícame Nueva altura de instrumento en cambio de punto.",
+      "Define Nueva altura de instrumento en cambio de punto."
+    ],
+    "variantes": [
+      "nueva altura de instrumento",
+      "nueva AI",
+      "AI despues del CP",
+      "altura con cambio de punto",
+      "cómo se calcula nueva ai después de un cambio de punto"
+    ],
+    "aliases": [
+      "nueva AI",
+      "CP"
+    ],
+    "keywords": [
+      "AI",
+      "cota",
+      "VA"
+    ],
+    "contenido": "Después del cambio de punto, la nueva AI se calcula sumando la cota del CP más la nueva vista atrás."
+  },
+  {
+    "id": "error_cambio_punto_0055",
+    "tema": "Topografía Superficial",
+    "titulo": "Error en cambio de punto",
+    "preguntas": [
+      "¿Qué pasa si se calcula mal un cambio de punto?",
+      "Explícame Error en cambio de punto.",
+      "Define Error en cambio de punto."
+    ],
+    "variantes": [
+      "error cambio de punto",
+      "CP mal calculado",
+      "error en CP",
+      "cota mal por cambio",
+      "qué pasa si se calcula mal un cambio de punto"
+    ],
+    "aliases": [
+      "error CP"
+    ],
+    "keywords": [
+      "error",
+      "cotas"
+    ],
+    "contenido": "Si el cambio de punto se calcula mal, todas las cotas siguientes salen incorrectas."
+  },
+  {
+    "id": "cp_lecturas_0056",
+    "tema": "Topografía Superficial",
+    "titulo": "Lecturas en cambio de punto",
+    "preguntas": [
+      "¿Qué lecturas se toman en un cambio de punto?",
+      "Explícame Lecturas en cambio de punto.",
+      "Define Lecturas en cambio de punto."
+    ],
+    "variantes": [
+      "lecturas en CP",
+      "vista adelante y vista atras CP",
+      "lecturas cambio de punto",
+      "qué lecturas se toman en un cambio de punto"
+    ],
+    "aliases": [
+      "lecturas CP"
+    ],
+    "keywords": [
+      "VA",
+      "VF",
+      "CP"
+    ],
+    "contenido": "En un cambio de punto se toma primero una vista adelante para obtener su cota y luego una vista atrás desde la nueva estación."
+  },
+  {
+    "id": "cp_importancia_0057",
+    "tema": "Topografía Superficial",
+    "titulo": "Importancia del punto de cambio",
+    "preguntas": [
+      "¿Por qué es importante el punto de cambio?",
+      "Explícame Importancia del punto de cambio.",
+      "Define Importancia del punto de cambio."
+    ],
+    "variantes": [
+      "importancia CP",
+      "importancia cambio de punto",
+      "punto de cambio importante",
+      "por qué es importante el punto de cambio"
+    ],
+    "aliases": [
+      "importancia CP"
+    ],
+    "keywords": [
+      "nivelacion",
+      "continuidad"
+    ],
+    "contenido": "Es importante porque conserva la continuidad de la nivelación y permite trasladar la referencia de altura a otra estación."
+  },
+  {
+    "id": "cp_estable_0058",
+    "tema": "Topografía Superficial",
+    "titulo": "Punto de cambio estable",
+    "preguntas": [
+      "¿Cómo debe ser un punto de cambio?",
+      "Explícame Punto de cambio estable.",
+      "Define Punto de cambio estable."
+    ],
+    "variantes": [
+      "como debe ser CP",
+      "punto de cambio estable",
+      "elegir cambio de punto",
+      "cómo debe ser un punto de cambio"
+    ],
+    "aliases": [
+      "CP estable"
+    ],
+    "keywords": [
+      "firme",
+      "estable"
+    ],
+    "contenido": "Debe ser firme, estable, visible y fácil de leer, para evitar errores en las lecturas de nivelación."
+  },
+  {
+    "id": "cuadro_nivelacion_concepto_0059",
+    "tema": "Topografía Superficial",
+    "titulo": "Cuadro de nivelación",
+    "preguntas": [
+      "¿Qué es un cuadro de nivelación?",
+      "Explícame Cuadro de nivelación.",
+      "Define Cuadro de nivelación."
+    ],
+    "variantes": [
+      "cuadro de nivelacion",
+      "tabla de nivelacion",
+      "registro de nivelacion",
+      "cuadro para cotas",
+      "qué es un cuadro de nivelación"
+    ],
+    "aliases": [
+      "cuadro nivelación"
+    ],
+    "keywords": [
+      "tabla",
+      "cotas"
+    ],
+    "contenido": "El cuadro de nivelación es una tabla donde se ordenan puntos, lecturas, altura de instrumento, cotas y observaciones."
+  },
+  {
+    "id": "datos_cuadro_nivelacion_0060",
+    "tema": "Topografía Superficial",
+    "titulo": "Datos del cuadro de nivelación",
+    "preguntas": [
+      "¿Qué datos tiene un cuadro de nivelación?",
+      "Explícame Datos del cuadro de nivelación.",
+      "Define Datos del cuadro de nivelación."
+    ],
+    "variantes": [
+      "datos cuadro nivelacion",
+      "columnas de nivelacion",
+      "que contiene cuadro nivelacion",
+      "qué datos tiene un cuadro de nivelación"
+    ],
+    "aliases": [
+      "datos cuadro"
+    ],
+    "keywords": [
+      "punto",
+      "VA",
+      "VI",
+      "VF",
+      "AI",
+      "cota"
+    ],
+    "contenido": "Contiene punto, vista atrás, vista intermedia, vista adelante, altura de instrumento, cota y observación."
+  },
+  {
+    "id": "resolver_cuadro_nivelacion_0061",
+    "tema": "Topografía Superficial",
+    "titulo": "Resolver cuadro de nivelación",
+    "preguntas": [
+      "¿Cómo se resuelve un cuadro de nivelación?",
+      "Explícame Resolver cuadro de nivelación.",
+      "Define Resolver cuadro de nivelación."
+    ],
+    "variantes": [
+      "resolver cuadro nivelacion",
+      "como llenar nivelacion",
+      "sacar cotas cuadro",
+      "hacer cuadro de cotas",
+      "cómo se resuelve un cuadro de nivelación"
+    ],
+    "aliases": [
+      "resolver cuadro"
+    ],
+    "keywords": [
+      "AI",
+      "cota",
+      "VA"
+    ],
+    "contenido": "Primero se ubica la cota conocida, luego se calcula AI con cota más vista atrás y después las cotas con AI menos lectura."
+  },
+  {
+    "id": "cota_conocida_cuadro_0062",
+    "tema": "Topografía Superficial",
+    "titulo": "Cota conocida en cuadro de nivelación",
+    "preguntas": [
+      "¿Cómo se reconoce la cota conocida en un cuadro de nivelación?",
+      "Explícame Cota conocida en cuadro de nivelación.",
+      "Define Cota conocida en cuadro de nivelación."
+    ],
+    "variantes": [
+      "cota conocida",
+      "BM en cuadro",
+      "punto conocido",
+      "cota inicial",
+      "cómo se reconoce la cota conocida en un cuadro de nivelación"
+    ],
+    "aliases": [
+      "cota conocida",
+      "BM"
+    ],
+    "keywords": [
+      "BM",
+      "referencia"
+    ],
+    "contenido": "La cota conocida suele estar en el BM o punto de referencia inicial; desde ella empieza el cálculo de la nivelación."
+  },
+  {
+    "id": "llenar_ai_0063",
+    "tema": "Topografía Superficial",
+    "titulo": "Llenar altura de instrumento",
+    "preguntas": [
+      "¿Cómo se llena la columna de altura de instrumento?",
+      "Explícame Llenar altura de instrumento.",
+      "Define Llenar altura de instrumento."
+    ],
+    "variantes": [
+      "llenar AI",
+      "columna AI",
+      "altura instrumento en cuadro",
+      "calcular AI cuadro",
+      "cómo se llena la columna de altura de instrumento"
+    ],
+    "aliases": [
+      "AI"
+    ],
+    "keywords": [
+      "cota",
+      "VA"
+    ],
+    "contenido": "La columna de AI se llena sumando la cota conocida o cota del CP más la vista atrás correspondiente."
+  },
+  {
+    "id": "llenar_cotas_0064",
+    "tema": "Topografía Superficial",
+    "titulo": "Llenar cotas",
+    "preguntas": [
+      "¿Cómo se llenan las cotas en un cuadro de nivelación?",
+      "Explícame Llenar cotas.",
+      "Define Llenar cotas."
+    ],
+    "variantes": [
+      "llenar cotas",
+      "cotas en cuadro",
+      "sacar cotas",
+      "calcular cotas",
+      "cómo se llenan las cotas en un cuadro de nivelación"
+    ],
+    "aliases": [
+      "cotas"
+    ],
+    "keywords": [
+      "AI",
+      "lecturas"
+    ],
+    "contenido": "Las cotas se llenan restando a la altura de instrumento la lectura del punto observado."
+  },
+  {
+    "id": "observacion_cuadro_0065",
+    "tema": "Topografía Superficial",
+    "titulo": "Observación en cuadro de nivelación",
+    "preguntas": [
+      "¿Qué va en observación del cuadro de nivelación?",
+      "Explícame Observación en cuadro de nivelación.",
+      "Define Observación en cuadro de nivelación."
+    ],
+    "variantes": [
+      "observacion cuadro",
+      "observaciones nivelacion",
+      "columna observacion",
+      "nota de campo",
+      "qué va en observación del cuadro de nivelación"
+    ],
+    "aliases": [
+      "observación"
+    ],
+    "keywords": [
+      "BM",
+      "CP",
+      "punto"
+    ],
+    "contenido": "En observación se anota si el punto es BM, punto intermedio, cambio de punto, punto final o detalle importante."
+  },
+  {
+    "id": "sumas_va_vf_0066",
+    "tema": "Topografía Superficial",
+    "titulo": "Comprobación con sumas de vistas",
+    "preguntas": [
+      "¿Cómo se comprueba con vistas atrás y adelante?",
+      "Explícame Comprobación con sumas de vistas.",
+      "Define Comprobación con sumas de vistas."
+    ],
+    "variantes": [
+      "sumas VA VF",
+      "comprobar con vistas",
+      "suma vista atras adelante",
+      "chequeo nivelacion",
+      "cómo se comprueba con vistas atrás y adelante"
+    ],
+    "aliases": [
+      "sumas"
+    ],
+    "keywords": [
+      "VA",
+      "VF",
+      "cierre"
+    ],
+    "contenido": "Una comprobación básica es: suma de vistas atrás menos suma de vistas adelante debe coincidir con la diferencia de cotas."
+  },
+  {
+    "id": "ejemplo_ai_cota_0067",
+    "tema": "Topografía Superficial",
+    "titulo": "Ejemplo de AI y cota",
+    "preguntas": [
+      "Dame un ejemplo de cálculo de AI y cota.",
+      "Explícame Ejemplo de AI y cota.",
+      "Define Ejemplo de AI y cota."
+    ],
+    "variantes": [
+      "ejemplo AI cota",
+      "ejemplo cota",
+      "calculo de cota ejemplo",
+      "AI ejemplo",
+      "dame un ejemplo de cálculo de ai y cota."
+    ],
+    "aliases": [
+      "ejemplo"
+    ],
+    "keywords": [
+      "AI",
+      "cota"
+    ],
+    "contenido": "Ejemplo: si la cota es 100.000 y VA es 1.250, AI es 101.250. Si la lectura a P1 es 0.850, la cota de P1 es 100.400."
+  },
+  {
+    "id": "lectura_mira_0068",
+    "tema": "Topografía Superficial",
+    "titulo": "Lectura de mira",
+    "preguntas": [
+      "¿Qué es lectura de mira?",
+      "Explícame Lectura de mira.",
+      "Define Lectura de mira."
+    ],
+    "variantes": [
+      "lectura de mira",
+      "leer mira",
+      "lectura estadia",
+      "lectura nivelacion",
+      "qué es lectura de mira"
+    ],
+    "aliases": [
+      "lectura"
+    ],
+    "keywords": [
+      "mira",
+      "nivel"
+    ],
+    "contenido": "La lectura de mira es el valor observado con el nivel sobre la regla graduada colocada en un punto."
+  },
+  {
+    "id": "replanteo_concepto_0069",
+    "tema": "Topografía Superficial",
+    "titulo": "Replanteo topográfico",
+    "preguntas": [
+      "¿Qué es el replanteo topográfico?",
+      "Explícame Replanteo topográfico.",
+      "Define Replanteo topográfico."
+    ],
+    "variantes": [
+      "replanteo topografico",
+      "replanteo topográfico",
+      "replanteo",
+      "pasar plano al terreno",
+      "llevar plano al terreno",
+      "qué es el replanteo topográfico"
+    ],
+    "aliases": [
+      "replanteo"
+    ],
+    "keywords": [
+      "plano",
+      "terreno"
+    ],
+    "contenido": "El replanteo topográfico es trasladar al terreno los puntos, ejes, límites, cotas y medidas diseñados en un plano."
+  },
+  {
+    "id": "replanteo_utilidad_0070",
+    "tema": "Topografía Superficial",
+    "titulo": "Utilidad del replanteo",
+    "preguntas": [
+      "¿Para qué sirve el replanteo topográfico?",
+      "Explícame Utilidad del replanteo.",
+      "Define Utilidad del replanteo."
+    ],
+    "variantes": [
+      "para que sirve replanteo",
+      "uso del replanteo",
+      "replanteo para que sirve",
+      "replanteo de obra",
+      "para qué sirve el replanteo topográfico"
+    ],
+    "aliases": [
+      "utilidad",
+      "sirve"
+    ],
+    "keywords": [
+      "obra",
+      "limites"
+    ],
+    "contenido": "Sirve para ubicar en campo los puntos, ejes, niveles, límites y alineamientos necesarios para ejecutar una obra."
+  },
+  {
+    "id": "limites_plano_terreno_0071",
+    "tema": "Topografía Superficial",
+    "titulo": "Límites del plano al terreno",
+    "preguntas": [
+      "¿Qué significa llevar los límites del plano al terreno?",
+      "Explícame Límites del plano al terreno.",
+      "Define Límites del plano al terreno."
+    ],
+    "variantes": [
+      "llevar limites del plano al terreno",
+      "pasar limites al terreno",
+      "marcar limites en campo",
+      "limites del plano al terreno",
+      "qué significa llevar los límites del plano al terreno"
+    ],
+    "aliases": [
+      "límites",
+      "plano terreno"
+    ],
+    "keywords": [
+      "replanteo",
+      "limites"
+    ],
+    "contenido": "Significa realizar un replanteo topográfico, marcando físicamente en el terreno los límites que aparecen en el plano."
+  },
+  {
+    "id": "datos_replanteo_0072",
+    "tema": "Topografía Superficial",
+    "titulo": "Datos necesarios para replanteo",
+    "preguntas": [
+      "¿Qué datos se necesitan para hacer un replanteo?",
+      "Explícame Datos necesarios para replanteo.",
+      "Define Datos necesarios para replanteo."
+    ],
+    "variantes": [
+      "datos para replanteo",
+      "que necesito para replantear",
+      "datos de replanteo",
+      "replanteo datos",
+      "qué datos se necesitan para hacer un replanteo"
+    ],
+    "aliases": [
+      "datos"
+    ],
+    "keywords": [
+      "coordenadas",
+      "cotas",
+      "distancias"
+    ],
+    "contenido": "Se necesitan plano, coordenadas, cotas, ejes, distancias, ángulos, puntos de referencia y equipo topográfico."
+  },
+  {
+    "id": "levantamiento_replanteo_diferencia_0073",
+    "tema": "Topografía Superficial",
+    "titulo": "Diferencia entre levantamiento y replanteo",
+    "preguntas": [
+      "¿Cuál es la diferencia entre levantamiento y replanteo?",
+      "Explícame Diferencia entre levantamiento y replanteo.",
+      "Define Diferencia entre levantamiento y replanteo."
+    ],
+    "variantes": [
+      "diferencia levantamiento replanteo",
+      "levantamiento vs replanteo",
+      "levantamiento y replanteo",
+      "cuál es la diferencia entre levantamiento y replanteo"
+    ],
+    "aliases": [
+      "diferencia"
+    ],
+    "keywords": [
+      "levantamiento",
+      "replanteo"
+    ],
+    "contenido": "El levantamiento toma datos del terreno para hacer un plano; el replanteo lleva al terreno lo que ya está diseñado en el plano."
+  },
+  {
+    "id": "errores_replanteo_0074",
+    "tema": "Topografía Superficial",
+    "titulo": "Errores en replanteo",
+    "preguntas": [
+      "¿Qué errores pueden ocurrir en un replanteo topográfico?",
+      "Explícame Errores en replanteo.",
+      "Define Errores en replanteo."
+    ],
+    "variantes": [
+      "errores replanteo",
+      "fallas en replanteo",
+      "replanteo mal hecho",
+      "error de replanteo",
+      "qué errores pueden ocurrir en un replanteo topográfico"
+    ],
+    "aliases": [
+      "errores"
+    ],
+    "keywords": [
+      "eje",
+      "limite",
+      "cota"
+    ],
+    "contenido": "Pueden ocurrir errores de coordenadas, distancias, ángulos, cotas, alineamiento, referencia incorrecta o mala marcación de puntos."
+  },
+  {
+    "id": "eje_replanteo_0075",
+    "tema": "Topografía Superficial",
+    "titulo": "Eje de replanteo",
+    "preguntas": [
+      "¿Qué es un eje en replanteo topográfico?",
+      "Explícame Eje de replanteo.",
+      "Define Eje de replanteo."
+    ],
+    "variantes": [
+      "eje de replanteo",
+      "eje topografico",
+      "eje de obra",
+      "marcar eje",
+      "qué es un eje en replanteo topográfico"
+    ],
+    "aliases": [
+      "eje"
+    ],
+    "keywords": [
+      "replanteo",
+      "obra"
+    ],
+    "contenido": "El eje es una línea principal de referencia que guía la ubicación de obras, caminos, canales, estructuras o límites."
+  },
+  {
+    "id": "punto_control_0076",
+    "tema": "Topografía Superficial",
+    "titulo": "Punto de control",
+    "preguntas": [
+      "¿Qué es un punto de control topográfico?",
+      "Explícame Punto de control.",
+      "Define Punto de control."
+    ],
+    "variantes": [
+      "punto de control",
+      "control topografico",
+      "punto base",
+      "referencia topografica",
+      "qué es un punto de control topográfico"
+    ],
+    "aliases": [
+      "control"
+    ],
+    "keywords": [
+      "coordenadas",
+      "referencia"
+    ],
+    "contenido": "Un punto de control es un punto fijo con coordenadas o cota conocida que sirve como base para levantar o replantear."
+  },
+  {
+    "id": "marcado_terreno_0077",
+    "tema": "Topografía Superficial",
+    "titulo": "Marcado en terreno",
+    "preguntas": [
+      "¿Cómo se marca un punto en el terreno?",
+      "Explícame Marcado en terreno.",
+      "Define Marcado en terreno."
+    ],
+    "variantes": [
+      "marcar punto terreno",
+      "marcado de puntos",
+      "estacar punto",
+      "señalar punto",
+      "cómo se marca un punto en el terreno"
+    ],
+    "aliases": [
+      "marcado",
+      "estacado"
+    ],
+    "keywords": [
+      "estaca",
+      "pintura",
+      "jalon"
+    ],
+    "contenido": "Un punto se marca con estaca, clavo, pintura, jalón o señal visible, cuidando que no se mueva."
+  },
+  {
+    "id": "replanteo_cotas_0078",
+    "tema": "Topografía Superficial",
+    "titulo": "Replanteo de cotas",
+    "preguntas": [
+      "¿Qué es replanteo de cotas?",
+      "Explícame Replanteo de cotas.",
+      "Define Replanteo de cotas."
+    ],
+    "variantes": [
+      "replanteo de cotas",
+      "llevar cotas al terreno",
+      "marcar niveles",
+      "niveles de obra",
+      "qué es replanteo de cotas"
+    ],
+    "aliases": [
+      "cotas"
+    ],
+    "keywords": [
+      "replanteo",
+      "nivel"
+    ],
+    "contenido": "El replanteo de cotas consiste en marcar en el terreno las alturas o niveles indicados en el plano."
+  },
+  {
+    "id": "norte_topografico_0079",
+    "tema": "Topografía Superficial",
+    "titulo": "Norte topográfico",
+    "preguntas": [
+      "¿Qué es el norte topográfico?",
+      "Explícame Norte topográfico.",
+      "Define Norte topográfico."
+    ],
+    "variantes": [
+      "norte topografico",
+      "norte en topografia",
+      "direccion norte",
+      "referencia norte",
+      "qué es el norte topográfico"
+    ],
+    "aliases": [
+      "norte"
+    ],
+    "keywords": [
+      "orientacion",
+      "rumbo"
+    ],
+    "contenido": "El norte topográfico es la dirección de referencia usada para orientar ángulos, rumbos, azimuts y planos."
+  },
+  {
+    "id": "coordenadas_topograficas_0080",
+    "tema": "Topografía Superficial",
+    "titulo": "Coordenadas topográficas",
+    "preguntas": [
+      "¿Qué son las coordenadas topográficas?",
+      "Explícame Coordenadas topográficas.",
+      "Define Coordenadas topográficas."
+    ],
+    "variantes": [
+      "coordenadas topograficas",
+      "coordenadas en topografia",
+      "este norte cota",
+      "coordenadas",
+      "qué son las coordenadas topográficas"
+    ],
+    "aliases": [
+      "coordenadas"
+    ],
+    "keywords": [
+      "este",
+      "norte",
+      "cota"
+    ],
+    "contenido": "Las coordenadas topográficas ubican un punto mediante valores como Este, Norte y Cota."
+  },
+  {
+    "id": "coordenada_este_0081",
+    "tema": "Topografía Superficial",
+    "titulo": "Coordenada Este",
+    "preguntas": [
+      "¿Qué es la coordenada Este?",
+      "Explícame Coordenada Este.",
+      "Define Coordenada Este."
+    ],
+    "variantes": [
+      "coordenada este",
+      "este topografico",
+      "valor este",
+      "easting",
+      "qué es la coordenada este"
+    ],
+    "aliases": [
+      "este"
+    ],
+    "keywords": [
+      "coordenada",
+      "E"
+    ],
+    "contenido": "La coordenada Este indica la posición horizontal de un punto en dirección este-oeste dentro de un sistema de coordenadas."
+  },
+  {
+    "id": "coordenada_norte_0082",
+    "tema": "Topografía Superficial",
+    "titulo": "Coordenada Norte",
+    "preguntas": [
+      "¿Qué es la coordenada Norte?",
+      "Explícame Coordenada Norte.",
+      "Define Coordenada Norte."
+    ],
+    "variantes": [
+      "coordenada norte",
+      "norte topografico",
+      "valor norte",
+      "northing",
+      "qué es la coordenada norte"
+    ],
+    "aliases": [
+      "norte"
+    ],
+    "keywords": [
+      "coordenada",
+      "N"
+    ],
+    "contenido": "La coordenada Norte indica la posición horizontal de un punto en dirección norte-sur dentro de un sistema de coordenadas."
+  },
+  {
+    "id": "coordenada_cota_0083",
+    "tema": "Topografía Superficial",
+    "titulo": "Coordenada cota",
+    "preguntas": [
+      "¿Qué representa la cota en coordenadas?",
+      "Explícame Coordenada cota.",
+      "Define Coordenada cota."
+    ],
+    "variantes": [
+      "coordenada cota",
+      "cota en coordenadas",
+      "este norte cota",
+      "elevacion coordenada",
+      "qué representa la cota en coordenadas"
+    ],
+    "aliases": [
+      "cota"
+    ],
+    "keywords": [
+      "altura",
+      "elevacion"
+    ],
+    "contenido": "La cota representa la altura o elevación del punto dentro del sistema de coordenadas."
+  },
+  {
+    "id": "cuadro_coordenadas_0084",
+    "tema": "Topografía Superficial",
+    "titulo": "Cuadro de coordenadas",
+    "preguntas": [
+      "¿Qué contiene un cuadro de coordenadas?",
+      "Explícame Cuadro de coordenadas.",
+      "Define Cuadro de coordenadas."
+    ],
+    "variantes": [
+      "cuadro de coordenadas",
+      "tabla de coordenadas",
+      "este norte cota",
+      "puntos coordenados",
+      "qué contiene un cuadro de coordenadas"
+    ],
+    "aliases": [
+      "cuadro coordenadas"
+    ],
+    "keywords": [
+      "punto",
+      "este",
+      "norte",
+      "cota"
+    ],
+    "contenido": "Un cuadro de coordenadas contiene el nombre del punto y sus valores de Este, Norte y Cota."
+  },
+  {
+    "id": "ubicacion_puntos_0085",
+    "tema": "Topografía Superficial",
+    "titulo": "Ubicación de puntos",
+    "preguntas": [
+      "¿Cómo se ubican puntos con coordenadas?",
+      "Explícame Ubicación de puntos.",
+      "Define Ubicación de puntos."
+    ],
+    "variantes": [
+      "ubicar puntos con coordenadas",
+      "puntos este norte",
+      "ubicar coordenadas",
+      "coordenadas en terreno",
+      "cómo se ubican puntos con coordenadas"
+    ],
+    "aliases": [
+      "ubicar puntos"
+    ],
+    "keywords": [
+      "coordenadas",
+      "replanteo"
+    ],
+    "contenido": "Se ubican usando sus coordenadas Este, Norte y Cota con GPS, estación total o referencias de campo."
+  },
+  {
+    "id": "area_levantamiento_0086",
+    "tema": "Topografía Superficial",
+    "titulo": "Área en levantamiento",
+    "preguntas": [
+      "¿Para qué se calcula el área en un levantamiento?",
+      "Explícame Área en levantamiento.",
+      "Define Área en levantamiento."
+    ],
+    "variantes": [
+      "area de terreno",
+      "calcular area levantamiento",
+      "area topografica",
+      "superficie terreno",
+      "para qué se calcula el área en un levantamiento"
+    ],
+    "aliases": [
+      "área"
+    ],
+    "keywords": [
+      "terreno",
+      "limites"
+    ],
+    "contenido": "El área se calcula para conocer la superficie delimitada por los puntos medidos en el terreno."
+  },
+  {
+    "id": "perimetro_levantamiento_0087",
+    "tema": "Topografía Superficial",
+    "titulo": "Perímetro en levantamiento",
+    "preguntas": [
+      "¿Qué es el perímetro de un terreno?",
+      "Explícame Perímetro en levantamiento.",
+      "Define Perímetro en levantamiento."
+    ],
+    "variantes": [
+      "perimetro terreno",
+      "perimetro levantamiento",
+      "contorno terreno",
+      "suma de lados",
+      "qué es el perímetro de un terreno"
+    ],
+    "aliases": [
+      "perímetro"
+    ],
+    "keywords": [
+      "distancias",
+      "limites"
+    ],
+    "contenido": "El perímetro es la suma de las distancias que forman el contorno o límite de un terreno."
+  },
+  {
+    "id": "cierre_poligonal_0088",
+    "tema": "Topografía Superficial",
+    "titulo": "Cierre de poligonal",
+    "preguntas": [
+      "¿Qué es el cierre de una poligonal?",
+      "Explícame Cierre de poligonal.",
+      "Define Cierre de poligonal."
+    ],
+    "variantes": [
+      "cierre poligonal",
+      "cerrar levantamiento",
+      "poligonal cerrada",
+      "error de cierre poligonal",
+      "qué es el cierre de una poligonal"
+    ],
+    "aliases": [
+      "cierre"
+    ],
+    "keywords": [
+      "poligonal",
+      "error"
+    ],
+    "contenido": "El cierre de una poligonal verifica si el levantamiento regresa correctamente al punto inicial o a un punto conocido."
+  },
+  {
+    "id": "poligonal_abierta_0089",
+    "tema": "Topografía Superficial",
+    "titulo": "Poligonal abierta",
+    "preguntas": [
+      "¿Qué es una poligonal abierta?",
+      "Explícame Poligonal abierta.",
+      "Define Poligonal abierta."
+    ],
+    "variantes": [
+      "poligonal abierta",
+      "levantamiento abierto",
+      "linea abierta",
+      "trazo abierto",
+      "qué es una poligonal abierta"
+    ],
+    "aliases": [
+      "poligonal abierta"
+    ],
+    "keywords": [
+      "puntos",
+      "linea"
+    ],
+    "contenido": "Una poligonal abierta es una serie de líneas medidas que no regresa al punto inicial."
+  },
+  {
+    "id": "poligonal_cerrada_0090",
+    "tema": "Topografía Superficial",
+    "titulo": "Poligonal cerrada",
+    "preguntas": [
+      "¿Qué es una poligonal cerrada?",
+      "Explícame Poligonal cerrada.",
+      "Define Poligonal cerrada."
+    ],
+    "variantes": [
+      "poligonal cerrada",
+      "levantamiento cerrado",
+      "figura cerrada",
+      "trazo cerrado",
+      "qué es una poligonal cerrada"
+    ],
+    "aliases": [
+      "poligonal cerrada"
+    ],
+    "keywords": [
+      "puntos",
+      "cierre"
+    ],
+    "contenido": "Una poligonal cerrada es una serie de líneas que vuelve al punto inicial o forma una figura cerrada."
+  },
+  {
+    "id": "perfil_topografico_0091",
+    "tema": "Topografía Superficial",
+    "titulo": "Perfil topográfico",
+    "preguntas": [
+      "¿Qué es un perfil topográfico?",
+      "Explícame Perfil topográfico.",
+      "Define Perfil topográfico."
+    ],
+    "variantes": [
+      "perfil topografico",
+      "perfil del terreno",
+      "corte del terreno",
+      "perfil longitudinal",
+      "qué es un perfil topográfico"
+    ],
+    "aliases": [
+      "perfil"
+    ],
+    "keywords": [
+      "cotas",
+      "distancias"
+    ],
+    "contenido": "Un perfil topográfico representa las alturas del terreno a lo largo de una línea determinada."
+  },
+  {
+    "id": "curvas_nivel_0092",
+    "tema": "Topografía Superficial",
+    "titulo": "Curvas de nivel",
+    "preguntas": [
+      "¿Qué son las curvas de nivel?",
+      "Explícame Curvas de nivel.",
+      "Define Curvas de nivel."
+    ],
+    "variantes": [
+      "curvas de nivel",
+      "curva de nivel",
+      "lineas de nivel",
+      "niveles en plano",
+      "qué son las curvas de nivel"
+    ],
+    "aliases": [
+      "curvas"
+    ],
+    "keywords": [
+      "cotas",
+      "plano"
+    ],
+    "contenido": "Las curvas de nivel son líneas que unen puntos con igual cota o altura en un plano topográfico."
+  },
+  {
+    "id": "equidistancia_curvas_0093",
+    "tema": "Topografía Superficial",
+    "titulo": "Equidistancia de curvas de nivel",
+    "preguntas": [
+      "¿Qué es equidistancia en curvas de nivel?",
+      "Explícame Equidistancia de curvas de nivel.",
+      "Define Equidistancia de curvas de nivel."
+    ],
+    "variantes": [
+      "equidistancia",
+      "separacion curvas nivel",
+      "intervalo de curvas",
+      "distancia vertical curvas",
+      "qué es equidistancia en curvas de nivel"
+    ],
+    "aliases": [
+      "equidistancia"
+    ],
+    "keywords": [
+      "curvas",
+      "cota"
+    ],
+    "contenido": "La equidistancia es la diferencia vertical constante entre una curva de nivel y la siguiente."
+  },
+  {
+    "id": "terreno_plano_curvas_0094",
+    "tema": "Topografía Superficial",
+    "titulo": "Curvas de nivel en terreno plano",
+    "preguntas": [
+      "¿Cómo se ven las curvas en terreno plano?",
+      "Explícame Curvas de nivel en terreno plano.",
+      "Define Curvas de nivel en terreno plano."
+    ],
+    "variantes": [
+      "curvas terreno plano",
+      "curvas separadas",
+      "curvas nivel separadas",
+      "terreno suave",
+      "cómo se ven las curvas en terreno plano"
+    ],
+    "aliases": [
+      "curvas plano"
+    ],
+    "keywords": [
+      "pendiente",
+      "curvas"
+    ],
+    "contenido": "En terreno plano o de poca pendiente, las curvas de nivel aparecen más separadas."
+  },
+  {
+    "id": "terreno_empinado_curvas_0095",
+    "tema": "Topografía Superficial",
+    "titulo": "Curvas de nivel en terreno empinado",
+    "preguntas": [
+      "¿Cómo se ven las curvas en terreno empinado?",
+      "Explícame Curvas de nivel en terreno empinado.",
+      "Define Curvas de nivel en terreno empinado."
+    ],
+    "variantes": [
+      "curvas terreno empinado",
+      "curvas juntas",
+      "pendiente fuerte curvas",
+      "curvas cerradas",
+      "cómo se ven las curvas en terreno empinado"
+    ],
+    "aliases": [
+      "curvas empinado"
+    ],
+    "keywords": [
+      "pendiente",
+      "curvas"
+    ],
+    "contenido": "En terreno empinado o de pendiente fuerte, las curvas de nivel aparecen más juntas."
+  },
+  {
+    "id": "procedimiento_campo_0096",
+    "tema": "Topografía Superficial",
+    "titulo": "Procedimiento básico en campo",
+    "preguntas": [
+      "¿Cuál es el procedimiento básico de un levantamiento?",
+      "Explícame Procedimiento básico en campo.",
+      "Define Procedimiento básico en campo."
+    ],
+    "variantes": [
+      "procedimiento levantamiento",
+      "pasos de levantamiento",
+      "como hacer levantamiento",
+      "trabajo de campo",
+      "cuál es el procedimiento básico de un levantamiento"
+    ],
+    "aliases": [
+      "procedimiento"
+    ],
+    "keywords": [
+      "campo",
+      "datos"
+    ],
+    "contenido": "Primero se reconoce el terreno, luego se ubican puntos, se mide, se registran datos, se revisan errores y se elabora el plano."
+  },
+  {
+    "id": "reconocimiento_terreno_0097",
+    "tema": "Topografía Superficial",
+    "titulo": "Reconocimiento del terreno",
+    "preguntas": [
+      "¿Qué es reconocimiento del terreno?",
+      "Explícame Reconocimiento del terreno.",
+      "Define Reconocimiento del terreno."
+    ],
+    "variantes": [
+      "reconocimiento del terreno",
+      "reconocer terreno",
+      "inspeccion de campo",
+      "visita de campo",
+      "qué es reconocimiento del terreno"
+    ],
+    "aliases": [
+      "reconocimiento"
+    ],
+    "keywords": [
+      "campo",
+      "terreno"
+    ],
+    "contenido": "Es la revisión inicial del área para identificar accesos, límites, puntos de control, obstáculos y detalles importantes."
+  },
+  {
+    "id": "seguridad_campo_0098",
+    "tema": "Topografía Superficial",
+    "titulo": "Seguridad en trabajo topográfico",
+    "preguntas": [
+      "¿Qué seguridad se debe tener en topografía de campo?",
+      "Explícame Seguridad en trabajo topográfico.",
+      "Define Seguridad en trabajo topográfico."
+    ],
+    "variantes": [
+      "seguridad topografia",
+      "seguridad en campo",
+      "cuidados topograficos",
+      "EPP topografia",
+      "qué seguridad se debe tener en topografía de campo"
+    ],
+    "aliases": [
+      "seguridad"
+    ],
+    "keywords": [
+      "EPP",
+      "campo"
+    ],
+    "contenido": "Se debe usar EPP, cuidar el tránsito, evitar zonas inestables, proteger equipos y trabajar con comunicación entre el equipo."
+  },
+  {
+    "id": "equipo_trabajo_0099",
+    "tema": "Topografía Superficial",
+    "titulo": "Equipo de trabajo topográfico",
+    "preguntas": [
+      "¿Quiénes participan en un trabajo topográfico?",
+      "Explícame Equipo de trabajo topográfico.",
+      "Define Equipo de trabajo topográfico."
+    ],
+    "variantes": [
+      "equipo topografico",
+      "brigada topografica",
+      "personal de campo",
+      "ayudantes topografia",
+      "quiénes participan en un trabajo topográfico"
+    ],
+    "aliases": [
+      "brigada"
+    ],
+    "keywords": [
+      "topografo",
+      "ayudante"
+    ],
+    "contenido": "Participan el operador del instrumento, ayudante de mira o prisma, jalonero y encargado de registrar datos."
+  },
+  {
+    "id": "registro_datos_0100",
+    "tema": "Topografía Superficial",
+    "titulo": "Registro de datos topográficos",
+    "preguntas": [
+      "¿Por qué es importante registrar bien los datos?",
+      "Explícame Registro de datos topográficos.",
+      "Define Registro de datos topográficos."
+    ],
+    "variantes": [
+      "registro de datos",
+      "anotar datos",
+      "datos de campo",
+      "libreta datos",
+      "por qué es importante registrar bien los datos"
+    ],
+    "aliases": [
+      "registro"
+    ],
+    "keywords": [
+      "campo",
+      "errores"
+    ],
+    "contenido": "Registrar bien los datos evita errores de cálculo, pérdida de información y problemas al elaborar el plano."
+  },
+  {
+    "id": "topografia_concepto_simple_0101",
+    "tema": "Topografía Superficial",
+    "titulo": "Topografía",
+    "preguntas": [
+      "¿Qué es topografía?",
+      "Explícame Topografía.",
+      "Define Topografía."
+    ],
+    "variantes": [
+      "topografia",
+      "topografía",
+      "que es topografia",
+      "qué es topografía",
+      "topogafia",
+      "topo grafia"
+    ],
+    "aliases": [
+      "topografía"
+    ],
+    "keywords": [
+      "terreno",
+      "medicion",
+      "plano"
+    ],
+    "contenido": "La topografía es la ciencia que mide y representa el terreno con sus puntos, distancias, alturas, formas y detalles."
+  },
+  {
+    "id": "topografia_utilidad_simple_0102",
+    "tema": "Topografía Superficial",
+    "titulo": "Utilidad de la topografía",
+    "preguntas": [
+      "¿Para qué sirve la topografía?",
+      "Explícame Utilidad de la topografía.",
+      "Define Utilidad de la topografía."
+    ],
+    "variantes": [
+      "para que sirve topografia",
+      "utilidad de topografia",
+      "uso de topografia",
+      "topografia para que sirve"
+    ],
+    "aliases": [
+      "sirve",
+      "utilidad"
+    ],
+    "keywords": [
+      "topografia",
+      "plano",
+      "terreno"
+    ],
+    "contenido": "La topografía sirve para medir terrenos, hacer planos, calcular cotas, ubicar puntos y apoyar obras de minería, construcción y caminos."
+  },
+  {
+    "id": "topografia_superficial_simple_0103",
+    "tema": "Topografía Superficial",
+    "titulo": "Topografía superficial",
+    "preguntas": [
+      "¿Qué es topografía superficial?",
+      "Explícame Topografía superficial.",
+      "Define Topografía superficial."
+    ],
+    "variantes": [
+      "topografia superficial",
+      "topografía superficial",
+      "que es topografia superficial",
+      "topografia de superficie"
+    ],
+    "aliases": [
+      "topografía superficial"
+    ],
+    "keywords": [
+      "superficie",
+      "terreno",
+      "relieve"
+    ],
+    "contenido": "La topografía superficial estudia la parte visible del terreno para representar su relieve, detalles, límites, cotas y distancias."
+  },
+  {
+    "id": "terreno_simple_0104",
+    "tema": "Topografía Superficial",
+    "titulo": "Terreno",
+    "preguntas": [
+      "¿Qué es terreno en topografía?",
+      "Explícame Terreno.",
+      "Define Terreno."
+    ],
+    "variantes": [
+      "terreno",
+      "que es terreno",
+      "terreno en topografia",
+      "superficie del terreno"
+    ],
+    "aliases": [
+      "terreno"
+    ],
+    "keywords": [
+      "superficie",
+      "campo"
+    ],
+    "contenido": "El terreno es la superficie natural donde se realizan las mediciones topográficas, incluyendo pendientes, alturas, límites y detalles."
+  },
+  {
+    "id": "relieve_simple_0105",
+    "tema": "Topografía Superficial",
+    "titulo": "Relieve",
+    "preguntas": [
+      "¿Qué es relieve del terreno?",
+      "Explícame Relieve.",
+      "Define Relieve."
+    ],
+    "variantes": [
+      "relieve",
+      "relieve del terreno",
+      "forma del terreno",
+      "que es relieve"
+    ],
+    "aliases": [
+      "relieve"
+    ],
+    "keywords": [
+      "terreno",
+      "pendiente",
+      "altura"
+    ],
+    "contenido": "El relieve es la forma que presenta el terreno, con elevaciones, depresiones, pendientes, quebradas y zonas planas."
+  },
+  {
+    "id": "punto_topografico_simple_0106",
+    "tema": "Topografía Superficial",
+    "titulo": "Punto topográfico",
+    "preguntas": [
+      "¿Qué es un punto topográfico?",
+      "Explícame Punto topográfico.",
+      "Define Punto topográfico."
+    ],
+    "variantes": [
+      "punto topografico",
+      "punto topográfico",
+      "punto en topografia",
+      "que es punto topografico"
+    ],
+    "aliases": [
+      "punto"
+    ],
+    "keywords": [
+      "coordenada",
+      "cota"
+    ],
+    "contenido": "Un punto topográfico es una posición del terreno que se mide y registra con datos como coordenadas, cota o descripción."
+  },
+  {
+    "id": "linea_topografica_simple_0107",
+    "tema": "Topografía Superficial",
+    "titulo": "Línea topográfica",
+    "preguntas": [
+      "¿Qué es una línea topográfica?",
+      "Explícame Línea topográfica.",
+      "Define Línea topográfica."
+    ],
+    "variantes": [
+      "linea topografica",
+      "línea topográfica",
+      "linea en topografia",
+      "alineamiento"
+    ],
+    "aliases": [
+      "línea"
+    ],
+    "keywords": [
+      "puntos",
+      "distancia"
+    ],
+    "contenido": "Una línea topográfica es la unión entre dos puntos del terreno y puede representar un eje, límite, alineamiento o distancia."
+  },
+  {
+    "id": "plano_simple_0108",
+    "tema": "Topografía Superficial",
+    "titulo": "Plano",
+    "preguntas": [
+      "¿Qué es un plano en topografía?",
+      "Explícame Plano.",
+      "Define Plano."
+    ],
+    "variantes": [
+      "plano",
+      "plano topografico",
+      "qué es plano",
+      "que es plano en topografia"
+    ],
+    "aliases": [
+      "plano"
+    ],
+    "keywords": [
+      "representacion",
+      "terreno"
+    ],
+    "contenido": "Un plano es la representación del terreno en una hoja o archivo, mostrando puntos, límites, cotas, distancias y detalles."
+  },
+  {
+    "id": "croquis_simple_0109",
+    "tema": "Topografía Superficial",
+    "titulo": "Croquis",
+    "preguntas": [
+      "¿Qué es un croquis?",
+      "Explícame Croquis.",
+      "Define Croquis."
+    ],
+    "variantes": [
+      "croquis",
+      "que es croquis",
+      "croquis de campo",
+      "dibujo simple del terreno"
+    ],
+    "aliases": [
+      "croquis"
+    ],
+    "keywords": [
+      "dibujo",
+      "campo"
+    ],
+    "contenido": "Un croquis es un dibujo simple y rápido que ayuda a ubicar puntos, detalles, caminos, límites y referencias del terreno."
+  },
+  {
+    "id": "mapa_topografico_simple_0110",
+    "tema": "Topografía Superficial",
+    "titulo": "Mapa topográfico",
+    "preguntas": [
+      "¿Qué es un mapa topográfico?",
+      "Explícame Mapa topográfico.",
+      "Define Mapa topográfico."
+    ],
+    "variantes": [
+      "mapa topografico",
+      "mapa topográfico",
+      "que es mapa topografico",
+      "mapa del terreno"
+    ],
+    "aliases": [
+      "mapa"
+    ],
+    "keywords": [
+      "relieve",
+      "curvas",
+      "cotas"
+    ],
+    "contenido": "Un mapa topográfico representa el terreno con relieve, curvas de nivel, cotas, ríos, caminos, límites y otros detalles."
+  },
+  {
+    "id": "cota_simple_0111",
+    "tema": "Topografía Superficial",
+    "titulo": "Cota",
+    "preguntas": [
+      "¿Qué es cota?",
+      "Explícame Cota.",
+      "Define Cota."
+    ],
+    "variantes": [
+      "cota",
+      "cuota",
+      "que es cota",
+      "qué es cota",
+      "cota topografica",
+      "altura de un punto"
+    ],
+    "aliases": [
+      "cota",
+      "cuota"
+    ],
+    "keywords": [
+      "altura",
+      "elevacion"
+    ],
+    "contenido": "La cota es la altura o elevación de un punto respecto a un nivel de referencia."
+  },
+  {
+    "id": "cota_conocida_simple_0112",
+    "tema": "Topografía Superficial",
+    "titulo": "Cota conocida",
+    "preguntas": [
+      "¿Qué es una cota conocida?",
+      "Explícame Cota conocida.",
+      "Define Cota conocida."
+    ],
+    "variantes": [
+      "cota conocida",
+      "altura conocida",
+      "punto de cota conocida",
+      "cota de referencia"
+    ],
+    "aliases": [
+      "cota conocida"
+    ],
+    "keywords": [
+      "referencia",
+      "BM"
+    ],
+    "contenido": "Una cota conocida es la altura de un punto que ya se sabe y se usa como referencia para calcular otras cotas."
+  },
+  {
+    "id": "cota_desconocida_simple_0113",
+    "tema": "Topografía Superficial",
+    "titulo": "Cota desconocida",
+    "preguntas": [
+      "¿Qué es una cota desconocida?",
+      "Explícame Cota desconocida.",
+      "Define Cota desconocida."
+    ],
+    "variantes": [
+      "cota desconocida",
+      "altura desconocida",
+      "cota por calcular",
+      "hallar cota"
+    ],
+    "aliases": [
+      "cota desconocida"
+    ],
+    "keywords": [
+      "nivelacion",
+      "calculo"
+    ],
+    "contenido": "Una cota desconocida es la altura de un punto que se debe calcular mediante nivelación."
+  },
+  {
+    "id": "elevacion_simple_0114",
+    "tema": "Topografía Superficial",
+    "titulo": "Elevación",
+    "preguntas": [
+      "¿Qué es elevación?",
+      "Explícame Elevación.",
+      "Define Elevación."
+    ],
+    "variantes": [
+      "elevacion",
+      "elevación",
+      "que es elevacion",
+      "altura sobre el mar"
+    ],
+    "aliases": [
+      "elevación"
+    ],
+    "keywords": [
+      "altura",
+      "cota"
+    ],
+    "contenido": "La elevación es la altura de un punto sobre un nivel de referencia, como el nivel medio del mar."
+  },
+  {
+    "id": "altura_simple_0115",
+    "tema": "Topografía Superficial",
+    "titulo": "Altura",
+    "preguntas": [
+      "¿Qué es altura en topografía?",
+      "Explícame Altura.",
+      "Define Altura."
+    ],
+    "variantes": [
+      "altura",
+      "altura en topografia",
+      "que es altura",
+      "altura de punto"
+    ],
+    "aliases": [
+      "altura"
+    ],
+    "keywords": [
+      "vertical",
+      "cota"
+    ],
+    "contenido": "La altura es la posición vertical de un punto con relación a otro punto o a un nivel de referencia."
+  },
+  {
+    "id": "bm_simple_0116",
+    "tema": "Topografía Superficial",
+    "titulo": "BM",
+    "preguntas": [
+      "¿Qué es BM?",
+      "Explícame BM.",
+      "Define BM."
+    ],
+    "variantes": [
+      "BM",
+      "be eme",
+      "bm topografia",
+      "que es BM",
+      "banco de nivel"
+    ],
+    "aliases": [
+      "BM",
+      "banco de nivel"
+    ],
+    "keywords": [
+      "referencia",
+      "cota conocida"
+    ],
+    "contenido": "BM significa banco de nivel. Es un punto fijo con cota conocida que sirve como referencia para una nivelación."
+  },
+  {
+    "id": "banco_nivel_simple_0117",
+    "tema": "Topografía Superficial",
+    "titulo": "Banco de nivel",
+    "preguntas": [
+      "¿Qué es banco de nivel?",
+      "Explícame Banco de nivel.",
+      "Define Banco de nivel."
+    ],
+    "variantes": [
+      "banco de nivel",
+      "que es banco de nivel",
+      "punto de referencia de nivel",
+      "benchmark"
+    ],
+    "aliases": [
+      "banco de nivel",
+      "benchmark"
+    ],
+    "keywords": [
+      "BM",
+      "cota"
+    ],
+    "contenido": "El banco de nivel es un punto estable y fijo cuya cota es conocida y se usa para iniciar o controlar una nivelación."
+  },
+  {
+    "id": "punto_referencia_simple_0118",
+    "tema": "Topografía Superficial",
+    "titulo": "Punto de referencia",
+    "preguntas": [
+      "¿Qué es un punto de referencia?",
+      "Explícame Punto de referencia.",
+      "Define Punto de referencia."
+    ],
+    "variantes": [
+      "punto de referencia",
+      "referencia topografica",
+      "referencia de campo",
+      "punto conocido"
+    ],
+    "aliases": [
+      "referencia"
+    ],
+    "keywords": [
+      "punto",
+      "control"
+    ],
+    "contenido": "Un punto de referencia es un punto conocido que sirve para ubicar, medir o calcular otros puntos del terreno."
+  },
+  {
+    "id": "nivelacion_simple_def_0119",
+    "tema": "Topografía Superficial",
+    "titulo": "Nivelación",
+    "preguntas": [
+      "¿Qué es nivelación?",
+      "Explícame Nivelación.",
+      "Define Nivelación."
+    ],
+    "variantes": [
+      "nivelacion",
+      "nivelación",
+      "que es nivelacion",
+      "nivelacion topografica"
+    ],
+    "aliases": [
+      "nivelación"
+    ],
+    "keywords": [
+      "cota",
+      "altura",
+      "desnivel"
+    ],
+    "contenido": "La nivelación es el trabajo topográfico que permite calcular alturas, cotas y desniveles entre puntos."
+  },
+  {
+    "id": "nivelar_simple_0120",
+    "tema": "Topografía Superficial",
+    "titulo": "Nivelar",
+    "preguntas": [
+      "¿Qué significa nivelar en topografía?",
+      "Explícame Nivelar.",
+      "Define Nivelar."
+    ],
+    "variantes": [
+      "nivelar",
+      "que es nivelar",
+      "nivelar terreno",
+      "nivelar en topografia"
+    ],
+    "aliases": [
+      "nivelar"
+    ],
+    "keywords": [
+      "altura",
+      "cota"
+    ],
+    "contenido": "Nivelar significa determinar o controlar la altura de puntos del terreno para conocer sus cotas o desniveles."
+  },
+  {
+    "id": "desnivel_simple_0121",
+    "tema": "Topografía Superficial",
+    "titulo": "Desnivel",
+    "preguntas": [
+      "¿Qué es desnivel?",
+      "Explícame Desnivel.",
+      "Define Desnivel."
+    ],
+    "variantes": [
+      "desnivel",
+      "que es desnivel",
+      "diferencia de altura",
+      "diferencia de nivel"
+    ],
+    "aliases": [
+      "desnivel"
+    ],
+    "keywords": [
+      "altura",
+      "cota"
+    ],
+    "contenido": "El desnivel es la diferencia de altura entre dos puntos del terreno."
+  },
+  {
+    "id": "pendiente_simple_0122",
+    "tema": "Topografía Superficial",
+    "titulo": "Pendiente",
+    "preguntas": [
+      "¿Qué es pendiente?",
+      "Explícame Pendiente.",
+      "Define Pendiente."
+    ],
+    "variantes": [
+      "pendiente",
+      "que es pendiente",
+      "inclinacion del terreno",
+      "declive"
+    ],
+    "aliases": [
+      "pendiente"
+    ],
+    "keywords": [
+      "desnivel",
+      "distancia"
+    ],
+    "contenido": "La pendiente es la inclinación del terreno y relaciona el desnivel con la distancia horizontal."
+  },
+  {
+    "id": "ai_simple_0123",
+    "tema": "Topografía Superficial",
+    "titulo": "AI",
+    "preguntas": [
+      "¿Qué es AI en nivelación?",
+      "Explícame AI.",
+      "Define AI."
+    ],
+    "variantes": [
+      "AI",
+      "a i",
+      "altura de instrumento",
+      "altura instrumental",
+      "que es AI"
+    ],
+    "aliases": [
+      "AI"
+    ],
+    "keywords": [
+      "nivelacion",
+      "vista atras"
+    ],
+    "contenido": "AI significa altura de instrumento. Es la altura de la línea visual del nivel y se calcula con cota conocida más vista atrás."
+  },
+  {
+    "id": "va_simple_0124",
+    "tema": "Topografía Superficial",
+    "titulo": "Vista atrás",
+    "preguntas": [
+      "¿Qué es VA?",
+      "Explícame Vista atrás.",
+      "Define Vista atrás."
+    ],
+    "variantes": [
+      "VA",
+      "ve a",
+      "vista atras",
+      "vista atrás",
+      "que es VA"
+    ],
+    "aliases": [
+      "VA"
+    ],
+    "keywords": [
+      "lectura",
+      "cota conocida"
+    ],
+    "contenido": "VA significa vista atrás. Es la lectura tomada sobre un punto de cota conocida para calcular la altura de instrumento."
+  },
+  {
+    "id": "vi_simple_0125",
+    "tema": "Topografía Superficial",
+    "titulo": "Vista intermedia",
+    "preguntas": [
+      "¿Qué es VI?",
+      "Explícame Vista intermedia.",
+      "Define Vista intermedia."
+    ],
+    "variantes": [
+      "VI",
+      "ve i",
+      "vista intermedia",
+      "que es VI",
+      "lectura intermedia"
+    ],
+    "aliases": [
+      "VI"
+    ],
+    "keywords": [
+      "lectura",
+      "punto intermedio"
+    ],
+    "contenido": "VI significa vista intermedia. Es la lectura tomada a un punto adicional sin mover el instrumento."
+  },
+  {
+    "id": "vf_simple_0126",
+    "tema": "Topografía Superficial",
+    "titulo": "Vista adelante",
+    "preguntas": [
+      "¿Qué es VF?",
+      "Explícame Vista adelante.",
+      "Define Vista adelante."
+    ],
+    "variantes": [
+      "VF",
+      "ve efe",
+      "vista adelante",
+      "vista final",
+      "que es VF"
+    ],
+    "aliases": [
+      "VF"
+    ],
+    "keywords": [
+      "lectura",
+      "cota"
+    ],
+    "contenido": "VF significa vista adelante. Es la lectura tomada al punto cuya cota se desea calcular o a un punto de cambio."
+  },
+  {
+    "id": "cp_simple_0127",
+    "tema": "Topografía Superficial",
+    "titulo": "Cambio de punto",
+    "preguntas": [
+      "¿Qué es CP?",
+      "Explícame Cambio de punto.",
+      "Define Cambio de punto."
+    ],
+    "variantes": [
+      "CP",
+      "ce pe",
+      "cambio de punto",
+      "punto de cambio",
+      "que es CP"
+    ],
+    "aliases": [
+      "CP"
+    ],
+    "keywords": [
+      "nivelacion",
+      "estacion"
+    ],
+    "contenido": "CP significa cambio de punto. Es un punto auxiliar que permite continuar una nivelación cuando se cambia de estación."
+  },
+  {
+    "id": "estacion_simple_0128",
+    "tema": "Topografía Superficial",
+    "titulo": "Estación",
+    "preguntas": [
+      "¿Qué es estación en topografía?",
+      "Explícame Estación.",
+      "Define Estación."
+    ],
+    "variantes": [
+      "estacion",
+      "estación",
+      "estacion topografica",
+      "punto de estacion"
+    ],
+    "aliases": [
+      "estación"
+    ],
+    "keywords": [
+      "instrumento",
+      "medicion"
+    ],
+    "contenido": "La estación es el lugar donde se coloca el instrumento para medir u observar puntos del terreno."
+  },
+  {
+    "id": "mira_simple_0129",
+    "tema": "Topografía Superficial",
+    "titulo": "Mira topográfica",
+    "preguntas": [
+      "¿Qué es una mira topográfica?",
+      "Explícame Mira topográfica.",
+      "Define Mira topográfica."
+    ],
+    "variantes": [
+      "mira",
+      "mira topografica",
+      "mira de nivelacion",
+      "estadia"
+    ],
+    "aliases": [
+      "mira"
+    ],
+    "keywords": [
+      "nivel",
+      "lectura"
+    ],
+    "contenido": "La mira topográfica es una regla graduada usada en nivelación para tomar lecturas con el nivel."
+  },
+  {
+    "id": "nivel_optico_simple_0130",
+    "tema": "Topografía Superficial",
+    "titulo": "Nivel óptico",
+    "preguntas": [
+      "¿Qué es un nivel óptico?",
+      "Explícame Nivel óptico.",
+      "Define Nivel óptico."
+    ],
+    "variantes": [
+      "nivel optico",
+      "nivel óptico",
+      "nivel automatico",
+      "nivel de ingeniero"
+    ],
+    "aliases": [
+      "nivel óptico"
+    ],
+    "keywords": [
+      "mira",
+      "nivelacion"
+    ],
+    "contenido": "El nivel óptico es un instrumento que permite observar una línea horizontal para calcular cotas mediante lecturas en la mira."
+  },
+  {
+    "id": "estacion_total_simple_0131",
+    "tema": "Topografía Superficial",
+    "titulo": "Estación total",
+    "preguntas": [
+      "¿Qué es una estación total?",
+      "Explícame Estación total.",
+      "Define Estación total."
+    ],
+    "variantes": [
+      "estacion total",
+      "estación total",
+      "que es estacion total",
+      "equipo topografico"
+    ],
+    "aliases": [
+      "estación total"
+    ],
+    "keywords": [
+      "angulo",
+      "distancia",
+      "coordenadas"
+    ],
+    "contenido": "La estación total es un equipo topográfico que mide ángulos, distancias y coordenadas de puntos."
+  },
+  {
+    "id": "gps_simple_0132",
+    "tema": "Topografía Superficial",
+    "titulo": "GPS",
+    "preguntas": [
+      "¿Qué es GPS en topografía?",
+      "Explícame GPS.",
+      "Define GPS."
+    ],
+    "variantes": [
+      "GPS",
+      "ge pe ese",
+      "gps topografia",
+      "que es GPS"
+    ],
+    "aliases": [
+      "GPS"
+    ],
+    "keywords": [
+      "coordenadas",
+      "ubicacion"
+    ],
+    "contenido": "El GPS es un sistema que ayuda a ubicar puntos mediante coordenadas, usando señales de satélites."
+  },
+  {
+    "id": "prisma_simple_0133",
+    "tema": "Topografía Superficial",
+    "titulo": "Prisma topográfico",
+    "preguntas": [
+      "¿Qué es un prisma topográfico?",
+      "Explícame Prisma topográfico.",
+      "Define Prisma topográfico."
+    ],
+    "variantes": [
+      "prisma",
+      "prisma topografico",
+      "reflector topografico",
+      "que es prisma"
+    ],
+    "aliases": [
+      "prisma"
+    ],
+    "keywords": [
+      "estacion total",
+      "distancia"
+    ],
+    "contenido": "El prisma es un reflector usado con la estación total para medir distancias y ubicar puntos."
+  },
+  {
+    "id": "jalon_simple_0134",
+    "tema": "Topografía Superficial",
+    "titulo": "Jalón",
+    "preguntas": [
+      "¿Qué es un jalón?",
+      "Explícame Jalón.",
+      "Define Jalón."
+    ],
+    "variantes": [
+      "jalon",
+      "jalón",
+      "que es jalon",
+      "jalon topografico"
+    ],
+    "aliases": [
+      "jalón"
+    ],
+    "keywords": [
+      "punto",
+      "alineacion"
+    ],
+    "contenido": "El jalón es una vara visible que sirve para señalar puntos, alinear mediciones y apoyar trabajos de campo."
+  },
+  {
+    "id": "estaca_simple_0135",
+    "tema": "Topografía Superficial",
+    "titulo": "Estaca",
+    "preguntas": [
+      "¿Qué es una estaca en topografía?",
+      "Explícame Estaca.",
+      "Define Estaca."
+    ],
+    "variantes": [
+      "estaca",
+      "estaca topografica",
+      "que es estaca",
+      "marcar con estaca"
+    ],
+    "aliases": [
+      "estaca"
+    ],
+    "keywords": [
+      "punto",
+      "replanteo"
+    ],
+    "contenido": "Una estaca es una marca colocada en el terreno para señalar puntos, límites, ejes o referencias."
+  },
+  {
+    "id": "wincha_simple_0136",
+    "tema": "Topografía Superficial",
+    "titulo": "Wincha",
+    "preguntas": [
+      "¿Qué es una wincha en topografía?",
+      "Explícame Wincha.",
+      "Define Wincha."
+    ],
+    "variantes": [
+      "wincha",
+      "cinta metrica",
+      "cinta topografica",
+      "que es wincha"
+    ],
+    "aliases": [
+      "wincha",
+      "cinta"
+    ],
+    "keywords": [
+      "distancia",
+      "medicion"
+    ],
+    "contenido": "La wincha o cinta métrica sirve para medir distancias en campo."
+  },
+  {
+    "id": "brujula_simple_0137",
+    "tema": "Topografía Superficial",
+    "titulo": "Brújula",
+    "preguntas": [
+      "¿Qué es una brújula en topografía?",
+      "Explícame Brújula.",
+      "Define Brújula."
+    ],
+    "variantes": [
+      "brujula",
+      "brújula",
+      "que es brujula",
+      "brujula topografica"
+    ],
+    "aliases": [
+      "brújula"
+    ],
+    "keywords": [
+      "rumbo",
+      "norte"
+    ],
+    "contenido": "La brújula sirve para orientar direcciones y medir rumbos aproximados respecto al norte."
+  },
+  {
+    "id": "libreta_simple_0138",
+    "tema": "Topografía Superficial",
+    "titulo": "Libreta de campo",
+    "preguntas": [
+      "¿Qué es libreta de campo?",
+      "Explícame Libreta de campo.",
+      "Define Libreta de campo."
+    ],
+    "variantes": [
+      "libreta de campo",
+      "cuaderno de campo",
+      "registro de campo",
+      "que es libreta de campo"
+    ],
+    "aliases": [
+      "libreta"
+    ],
+    "keywords": [
+      "datos",
+      "campo"
+    ],
+    "contenido": "La libreta de campo es donde se anotan lecturas, puntos, distancias, croquis y observaciones del trabajo topográfico."
+  },
+  {
+    "id": "distancia_simple_0139",
+    "tema": "Topografía Superficial",
+    "titulo": "Distancia",
+    "preguntas": [
+      "¿Qué es distancia?",
+      "Explícame Distancia.",
+      "Define Distancia."
+    ],
+    "variantes": [
+      "distancia",
+      "que es distancia",
+      "distancia topografica",
+      "separacion entre puntos"
+    ],
+    "aliases": [
+      "distancia"
+    ],
+    "keywords": [
+      "puntos",
+      "medicion"
+    ],
+    "contenido": "La distancia es la separación medida entre dos puntos del terreno."
+  },
+  {
+    "id": "distancia_horizontal_simple_0140",
+    "tema": "Topografía Superficial",
+    "titulo": "Distancia horizontal",
+    "preguntas": [
+      "¿Qué es distancia horizontal?",
+      "Explícame Distancia horizontal.",
+      "Define Distancia horizontal."
+    ],
+    "variantes": [
+      "distancia horizontal",
+      "que es distancia horizontal",
+      "distancia plana"
+    ],
+    "aliases": [
+      "distancia horizontal"
+    ],
+    "keywords": [
+      "distancia",
+      "plano"
+    ],
+    "contenido": "La distancia horizontal es la separación entre dos puntos medida o proyectada sobre un plano horizontal."
+  },
+  {
+    "id": "distancia_inclinada_simple_0141",
+    "tema": "Topografía Superficial",
+    "titulo": "Distancia inclinada",
+    "preguntas": [
+      "¿Qué es distancia inclinada?",
+      "Explícame Distancia inclinada.",
+      "Define Distancia inclinada."
+    ],
+    "variantes": [
+      "distancia inclinada",
+      "que es distancia inclinada",
+      "distancia en pendiente"
+    ],
+    "aliases": [
+      "distancia inclinada"
+    ],
+    "keywords": [
+      "pendiente",
+      "distancia"
+    ],
+    "contenido": "La distancia inclinada es la medida tomada siguiendo la pendiente entre dos puntos."
+  },
+  {
+    "id": "azimut_simple_0142",
+    "tema": "Topografía Superficial",
+    "titulo": "Azimut",
+    "preguntas": [
+      "¿Qué es azimut?",
+      "Explícame Azimut.",
+      "Define Azimut."
+    ],
+    "variantes": [
+      "azimut",
+      "acimut",
+      "que es azimut",
+      "azimut topografico"
+    ],
+    "aliases": [
+      "azimut",
+      "acimut"
+    ],
+    "keywords": [
+      "angulo",
+      "norte"
+    ],
+    "contenido": "El azimut es el ángulo horizontal medido desde el norte en sentido horario hasta una línea."
+  },
+  {
+    "id": "rumbo_simple_0143",
+    "tema": "Topografía Superficial",
+    "titulo": "Rumbo",
+    "preguntas": [
+      "¿Qué es rumbo?",
+      "Explícame Rumbo.",
+      "Define Rumbo."
+    ],
+    "variantes": [
+      "rumbo",
+      "que es rumbo",
+      "rumbo topografico",
+      "direccion de linea"
+    ],
+    "aliases": [
+      "rumbo"
+    ],
+    "keywords": [
+      "direccion",
+      "norte"
+    ],
+    "contenido": "El rumbo es la dirección de una línea respecto al norte o sur, indicando hacia el este u oeste."
+  },
+  {
+    "id": "angulo_simple_0144",
+    "tema": "Topografía Superficial",
+    "titulo": "Ángulo",
+    "preguntas": [
+      "¿Qué es un ángulo en topografía?",
+      "Explícame Ángulo.",
+      "Define Ángulo."
+    ],
+    "variantes": [
+      "angulo",
+      "ángulo",
+      "que es angulo",
+      "angulo topografico"
+    ],
+    "aliases": [
+      "ángulo"
+    ],
+    "keywords": [
+      "direccion",
+      "lineas"
+    ],
+    "contenido": "Un ángulo es la abertura entre dos líneas o direcciones medidas desde un punto."
+  },
+  {
+    "id": "coordenadas_simple_0145",
+    "tema": "Topografía Superficial",
+    "titulo": "Coordenadas",
+    "preguntas": [
+      "¿Qué son coordenadas?",
+      "Explícame Coordenadas.",
+      "Define Coordenadas."
+    ],
+    "variantes": [
+      "coordenadas",
+      "que son coordenadas",
+      "coordenadas topograficas",
+      "este norte cota"
+    ],
+    "aliases": [
+      "coordenadas"
+    ],
+    "keywords": [
+      "este",
+      "norte",
+      "cota"
+    ],
+    "contenido": "Las coordenadas son valores que permiten ubicar un punto, normalmente con Este, Norte y Cota."
+  },
+  {
+    "id": "este_simple_0146",
+    "tema": "Topografía Superficial",
+    "titulo": "Este",
+    "preguntas": [
+      "¿Qué es Este en coordenadas?",
+      "Explícame Este.",
+      "Define Este."
+    ],
+    "variantes": [
+      "este",
+      "coordenada este",
+      "que es este",
+      "valor este"
+    ],
+    "aliases": [
+      "Este"
+    ],
+    "keywords": [
+      "coordenada",
+      "ubicacion"
+    ],
+    "contenido": "Este es el valor que indica la posición horizontal de un punto en dirección este-oeste."
+  },
+  {
+    "id": "norte_simple_0147",
+    "tema": "Topografía Superficial",
+    "titulo": "Norte",
+    "preguntas": [
+      "¿Qué es Norte en coordenadas?",
+      "Explícame Norte.",
+      "Define Norte."
+    ],
+    "variantes": [
+      "norte",
+      "coordenada norte",
+      "que es norte",
+      "valor norte"
+    ],
+    "aliases": [
+      "Norte"
+    ],
+    "keywords": [
+      "coordenada",
+      "ubicacion"
+    ],
+    "contenido": "Norte es el valor que indica la posición horizontal de un punto en dirección norte-sur."
+  },
+  {
+    "id": "norte_magnetico_simple_0148",
+    "tema": "Topografía Superficial",
+    "titulo": "Norte magnético",
+    "preguntas": [
+      "¿Qué es norte magnético?",
+      "Explícame Norte magnético.",
+      "Define Norte magnético."
+    ],
+    "variantes": [
+      "norte magnetico",
+      "norte magnético",
+      "que es norte magnetico",
+      "brujula norte"
+    ],
+    "aliases": [
+      "norte magnético"
+    ],
+    "keywords": [
+      "brujula",
+      "direccion"
+    ],
+    "contenido": "El norte magnético es la dirección que señala la brújula hacia el campo magnético terrestre."
+  },
+  {
+    "id": "norte_geografico_simple_0149",
+    "tema": "Topografía Superficial",
+    "titulo": "Norte geográfico",
+    "preguntas": [
+      "¿Qué es norte geográfico?",
+      "Explícame Norte geográfico.",
+      "Define Norte geográfico."
+    ],
+    "variantes": [
+      "norte geografico",
+      "norte geográfico",
+      "norte verdadero",
+      "que es norte geografico"
+    ],
+    "aliases": [
+      "norte geográfico"
+    ],
+    "keywords": [
+      "direccion",
+      "tierra"
+    ],
+    "contenido": "El norte geográfico es la dirección hacia el Polo Norte verdadero de la Tierra."
+  },
+  {
+    "id": "curva_nivel_simple_0150",
+    "tema": "Topografía Superficial",
+    "titulo": "Curva de nivel",
+    "preguntas": [
+      "¿Qué es una curva de nivel?",
+      "Explícame Curva de nivel.",
+      "Define Curva de nivel."
+    ],
+    "variantes": [
+      "curva de nivel",
+      "curvas de nivel",
+      "que es curva de nivel",
+      "lineas de igual cota"
+    ],
+    "aliases": [
+      "curva de nivel"
+    ],
+    "keywords": [
+      "cota",
+      "plano"
+    ],
+    "contenido": "Una curva de nivel es una línea que une puntos de igual cota en un plano topográfico."
+  },
+  {
+    "id": "perfil_simple_0151",
+    "tema": "Topografía Superficial",
+    "titulo": "Perfil topográfico",
+    "preguntas": [
+      "¿Qué es perfil topográfico?",
+      "Explícame Perfil topográfico.",
+      "Define Perfil topográfico."
+    ],
+    "variantes": [
+      "perfil topografico",
+      "perfil topográfico",
+      "perfil del terreno",
+      "que es perfil"
+    ],
+    "aliases": [
+      "perfil"
+    ],
+    "keywords": [
+      "terreno",
+      "cotas"
+    ],
+    "contenido": "El perfil topográfico muestra cómo sube y baja el terreno a lo largo de una línea."
+  },
+  {
+    "id": "seccion_simple_0152",
+    "tema": "Topografía Superficial",
+    "titulo": "Sección topográfica",
+    "preguntas": [
+      "¿Qué es una sección topográfica?",
+      "Explícame Sección topográfica.",
+      "Define Sección topográfica."
+    ],
+    "variantes": [
+      "seccion topografica",
+      "sección topográfica",
+      "corte topografico",
+      "que es seccion"
+    ],
+    "aliases": [
+      "sección"
+    ],
+    "keywords": [
+      "corte",
+      "terreno"
+    ],
+    "contenido": "Una sección topográfica es un corte del terreno que muestra su forma y alturas en una dirección determinada."
+  },
+  {
+    "id": "limite_simple_0153",
+    "tema": "Topografía Superficial",
+    "titulo": "Límite de terreno",
+    "preguntas": [
+      "¿Qué es límite de terreno?",
+      "Explícame Límite de terreno.",
+      "Define Límite de terreno."
+    ],
+    "variantes": [
+      "limite de terreno",
+      "límite de terreno",
+      "limites del terreno",
+      "lindero"
+    ],
+    "aliases": [
+      "límite",
+      "lindero"
+    ],
+    "keywords": [
+      "terreno",
+      "propiedad"
+    ],
+    "contenido": "El límite de terreno es la línea que separa un área o propiedad de otra."
+  },
+  {
+    "id": "replanteo_simple_0154",
+    "tema": "Topografía Superficial",
+    "titulo": "Replanteo",
+    "preguntas": [
+      "¿Qué es replanteo?",
+      "Explícame Replanteo.",
+      "Define Replanteo."
+    ],
+    "variantes": [
+      "replanteo",
+      "que es replanteo",
+      "replanteo topografico",
+      "pasar plano al terreno"
+    ],
+    "aliases": [
+      "replanteo"
+    ],
+    "keywords": [
+      "plano",
+      "terreno"
+    ],
+    "contenido": "El replanteo es llevar al terreno los puntos, ejes, límites, cotas y medidas que están en un plano."
+  },
+  {
+    "id": "eje_simple_0155",
+    "tema": "Topografía Superficial",
+    "titulo": "Eje",
+    "preguntas": [
+      "¿Qué es un eje en topografía?",
+      "Explícame Eje.",
+      "Define Eje."
+    ],
+    "variantes": [
+      "eje",
+      "eje topografico",
+      "eje de obra",
+      "que es eje"
+    ],
+    "aliases": [
+      "eje"
+    ],
+    "keywords": [
+      "linea",
+      "referencia"
+    ],
+    "contenido": "Un eje es una línea de referencia que sirve para ubicar obras, caminos, canales, límites o estructuras."
+  },
+  {
+    "id": "alineamiento_simple_0156",
+    "tema": "Topografía Superficial",
+    "titulo": "Alineamiento",
+    "preguntas": [
+      "¿Qué es alineamiento?",
+      "Explícame Alineamiento.",
+      "Define Alineamiento."
+    ],
+    "variantes": [
+      "alineamiento",
+      "alineacion",
+      "alinear puntos",
+      "que es alineamiento"
+    ],
+    "aliases": [
+      "alineamiento"
+    ],
+    "keywords": [
+      "puntos",
+      "linea"
+    ],
+    "contenido": "El alineamiento es colocar puntos sobre una misma línea para medir o replantear correctamente."
+  },
+  {
+    "id": "lindero_simple_0157",
+    "tema": "Topografía Superficial",
+    "titulo": "Lindero",
+    "preguntas": [
+      "¿Qué es lindero?",
+      "Explícame Lindero.",
+      "Define Lindero."
+    ],
+    "variantes": [
+      "lindero",
+      "que es lindero",
+      "limite de propiedad",
+      "borde del terreno"
+    ],
+    "aliases": [
+      "lindero"
+    ],
+    "keywords": [
+      "limite",
+      "terreno"
+    ],
+    "contenido": "El lindero es el borde o línea que define el límite de una propiedad o terreno."
+  },
+  {
+    "id": "poligonal_simple_0158",
+    "tema": "Topografía Superficial",
+    "titulo": "Poligonal",
+    "preguntas": [
+      "¿Qué es una poligonal topográfica?",
+      "Explícame Poligonal.",
+      "Define Poligonal."
+    ],
+    "variantes": [
+      "poligonal",
+      "que es poligonal",
+      "poligonal topografica",
+      "lineas y puntos"
+    ],
+    "aliases": [
+      "poligonal"
+    ],
+    "keywords": [
+      "puntos",
+      "lineas"
+    ],
+    "contenido": "Una poligonal es una sucesión de líneas y puntos medidos que permite representar o controlar un terreno."
+  },
+  {
+    "id": "area_simple_0159",
+    "tema": "Topografía Superficial",
+    "titulo": "Área",
+    "preguntas": [
+      "¿Qué es área de terreno?",
+      "Explícame Área.",
+      "Define Área."
+    ],
+    "variantes": [
+      "area",
+      "área",
+      "area de terreno",
+      "superficie del terreno"
+    ],
+    "aliases": [
+      "área"
+    ],
+    "keywords": [
+      "superficie",
+      "limites"
+    ],
+    "contenido": "El área es la superficie encerrada dentro de los límites de un terreno."
+  },
+  {
+    "id": "perimetro_simple_0160",
+    "tema": "Topografía Superficial",
+    "titulo": "Perímetro",
+    "preguntas": [
+      "¿Qué es perímetro?",
+      "Explícame Perímetro.",
+      "Define Perímetro."
+    ],
+    "variantes": [
+      "perimetro",
+      "perímetro",
+      "perimetro de terreno",
+      "contorno del terreno"
+    ],
+    "aliases": [
+      "perímetro"
+    ],
+    "keywords": [
+      "distancias",
+      "limites"
+    ],
+    "contenido": "El perímetro es la suma de las distancias que forman el contorno de un terreno."
+  },
+  {
+    "id": "error_simple_0161",
+    "tema": "Topografía Superficial",
+    "titulo": "Error topográfico",
+    "preguntas": [
+      "¿Qué es error topográfico?",
+      "Explícame Error topográfico.",
+      "Define Error topográfico."
+    ],
+    "variantes": [
+      "error topografico",
+      "error en topografia",
+      "que es error",
+      "medicion mala"
+    ],
+    "aliases": [
+      "error"
+    ],
+    "keywords": [
+      "medicion",
+      "correccion"
+    ],
+    "contenido": "Un error topográfico es una diferencia entre la medición realizada y el valor correcto."
+  },
+  {
+    "id": "precision_simple_0162",
+    "tema": "Topografía Superficial",
+    "titulo": "Precisión",
+    "preguntas": [
+      "¿Qué es precisión en topografía?",
+      "Explícame Precisión.",
+      "Define Precisión."
+    ],
+    "variantes": [
+      "precision",
+      "precisión",
+      "precision topografica",
+      "que es precision"
+    ],
+    "aliases": [
+      "precisión"
+    ],
+    "keywords": [
+      "medicion",
+      "exactitud"
+    ],
+    "contenido": "La precisión es el grado de cuidado con que se repite o realiza una medición."
+  },
+  {
+    "id": "exactitud_simple_0163",
+    "tema": "Topografía Superficial",
+    "titulo": "Exactitud",
+    "preguntas": [
+      "¿Qué es exactitud en topografía?",
+      "Explícame Exactitud.",
+      "Define Exactitud."
+    ],
+    "variantes": [
+      "exactitud",
+      "exactitud topografica",
+      "que es exactitud",
+      "valor real"
+    ],
+    "aliases": [
+      "exactitud"
+    ],
+    "keywords": [
+      "medicion",
+      "valor real"
+    ],
+    "contenido": "La exactitud indica qué tan cerca está una medición del valor real."
+  }
+]
