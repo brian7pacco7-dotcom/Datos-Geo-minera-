@@ -1,0 +1,537 @@
+{
+  "tema": "Comunicación oral, método CRAFT y partes de una solicitud",
+  "version": 2,
+  "idioma": "es-PE",
+  "descripcion": "Banco local de 25 preguntas prioritarias basadas en el material proporcionado, con respuestas, palabras clave y variantes para reconocimiento de voz.",
+  "total_preguntas": 25,
+  "preguntas": [
+    {
+      "id": 1,
+      "categoria": "comunicacion_oral_definicion",
+      "pregunta": "¿Qué es la comunicación oral?",
+      "variantes_voz": [
+        "que es la comunicacion oral",
+        "define la comunicacion oral",
+        "en que consiste la comunicacion oral",
+        "explica que es la comunicacion oral",
+        "que significa comunicacion oral",
+        "hablame sobre la comunicacion oral"
+      ],
+      "palabras_clave": [
+        "comunicacion",
+        "oral",
+        "habla",
+        "informacion"
+      ],
+      "respuesta": "La comunicación oral es la transmisión de información entre dos o más personas mediante el habla y un idioma o código compartido. Puede apoyarse en gestos, expresiones y tono de voz."
+    },
+    {
+      "id": 2,
+      "categoria": "comunicacion_oral_caracteristicas",
+      "pregunta": "¿Cuáles son las características principales de la comunicación oral?",
+      "variantes_voz": [
+        "cuales son las caracteristicas de la comunicacion oral",
+        "caracteristicas principales de la comunicacion oral",
+        "como se caracteriza la comunicacion oral",
+        "que caracteristicas tiene la comunicacion oral",
+        "dime las caracteristicas de la comunicacion oral",
+        "rasgos de la comunicacion oral"
+      ],
+      "palabras_clave": [
+        "caracteristicas",
+        "efimera",
+        "directa",
+        "contextual",
+        "bidireccional"
+      ],
+      "respuesta": "La comunicación oral es efímera, directa o inmediata, contextual y bidireccional. Además, suele apoyarse en recursos no verbales como los gestos, la mirada, la postura y el tono de voz."
+    },
+    {
+      "id": 3,
+      "categoria": "comunicacion_oral_caracteristicas",
+      "pregunta": "¿Por qué se dice que la comunicación oral es efímera?",
+      "variantes_voz": [
+        "por que la comunicacion oral es efimera",
+        "que significa que la comunicacion oral sea efimera",
+        "por que las palabras habladas desaparecen",
+        "explica la caracteristica efimera",
+        "que quiere decir efimera",
+        "por que lo hablado no permanece"
+      ],
+      "palabras_clave": [
+        "efimera",
+        "palabras",
+        "desaparecen",
+        "hablada"
+      ],
+      "respuesta": "Se dice que es efímera porque las palabras habladas normalmente desaparecen después de ser emitidas, salvo que la comunicación sea grabada."
+    },
+    {
+      "id": 4,
+      "categoria": "comunicacion_oral_caracteristicas",
+      "pregunta": "¿Qué significa que la comunicación oral sea directa o inmediata?",
+      "variantes_voz": [
+        "que significa que sea directa o inmediata",
+        "por que la comunicacion oral es inmediata",
+        "que quiere decir comunicacion directa",
+        "explica la comunicacion inmediata",
+        "que significa respuesta inmediata",
+        "comunicacion oral directa"
+      ],
+      "palabras_clave": [
+        "directa",
+        "inmediata",
+        "presencia",
+        "respuesta"
+      ],
+      "respuesta": "Significa que, por lo general, el emisor y el receptor se comunican en el mismo momento, lo que permite recibir y responder el mensaje rápidamente."
+    },
+    {
+      "id": 5,
+      "categoria": "comunicacion_oral_caracteristicas",
+      "pregunta": "¿Por qué la comunicación oral es contextual?",
+      "variantes_voz": [
+        "por que la comunicacion oral es contextual",
+        "que significa comunicacion contextual",
+        "explica la caracteristica contextual",
+        "como influye el contexto en la comunicacion oral",
+        "por que depende del entorno",
+        "que quiere decir contextual"
+      ],
+      "palabras_clave": [
+        "contextual",
+        "entorno",
+        "situacion",
+        "momento",
+        "lugar"
+      ],
+      "respuesta": "Es contextual porque su significado depende del entorno y de las circunstancias en las que ocurre, como el lugar, el momento, las personas y el propósito de la comunicación."
+    },
+    {
+      "id": 6,
+      "categoria": "comunicacion_oral_caracteristicas",
+      "pregunta": "¿Qué significa que la comunicación oral sea bidireccional?",
+      "variantes_voz": [
+        "que significa bidireccional",
+        "por que la comunicacion oral es bidireccional",
+        "que es una comunicacion bidireccional",
+        "explica bidireccional en la comunicacion oral",
+        "como se intercambian los roles",
+        "que quiere decir comunicacion en dos direcciones"
+      ],
+      "palabras_clave": [
+        "bidireccional",
+        "intercambio",
+        "roles",
+        "emisor",
+        "receptor"
+      ],
+      "respuesta": "Significa que la información circula en ambos sentidos: el emisor puede convertirse en receptor y el receptor puede convertirse en emisor durante el diálogo."
+    },
+    {
+      "id": 7,
+      "categoria": "comunicacion_oral_elementos",
+      "pregunta": "¿Cuáles son los elementos de la comunicación oral?",
+      "variantes_voz": [
+        "cuales son los elementos de la comunicacion oral",
+        "elementos de la comunicacion oral",
+        "que elementos intervienen en la comunicacion",
+        "partes de la comunicacion oral",
+        "componentes de la comunicacion oral",
+        "dime los seis elementos de la comunicacion"
+      ],
+      "palabras_clave": [
+        "elementos",
+        "emisor",
+        "receptor",
+        "mensaje",
+        "canal",
+        "codigo",
+        "contexto"
+      ],
+      "respuesta": "Los elementos de la comunicación oral son el emisor, el receptor, el mensaje, el canal, el código y el contexto o situación."
+    },
+    {
+      "id": 8,
+      "categoria": "comunicacion_oral_elementos",
+      "pregunta": "¿Qué es el emisor?",
+      "variantes_voz": [
+        "que es el emisor",
+        "quien es el emisor",
+        "que funcion cumple el emisor",
+        "define emisor",
+        "quien envia el mensaje",
+        "quien pronuncia el discurso"
+      ],
+      "palabras_clave": [
+        "emisor",
+        "envia",
+        "pronuncia",
+        "mensaje",
+        "discurso"
+      ],
+      "respuesta": "El emisor es la persona que produce, pronuncia o envía el mensaje."
+    },
+    {
+      "id": 9,
+      "categoria": "comunicacion_oral_elementos",
+      "pregunta": "¿Qué es el receptor?",
+      "variantes_voz": [
+        "que es el receptor",
+        "quien es el receptor",
+        "que funcion cumple el receptor",
+        "define receptor",
+        "quien recibe el mensaje",
+        "quien escucha la informacion"
+      ],
+      "palabras_clave": [
+        "receptor",
+        "recibe",
+        "escucha",
+        "mensaje",
+        "interpreta"
+      ],
+      "respuesta": "El receptor es la persona que recibe, escucha e interpreta el mensaje enviado por el emisor."
+    },
+    {
+      "id": 10,
+      "categoria": "comunicacion_oral_elementos",
+      "pregunta": "¿Qué es el mensaje?",
+      "variantes_voz": [
+        "que es el mensaje",
+        "define el mensaje en la comunicacion",
+        "que se transmite en la comunicacion",
+        "cual es la informacion transmitida",
+        "que significa mensaje",
+        "explica el mensaje como elemento"
+      ],
+      "palabras_clave": [
+        "mensaje",
+        "informacion",
+        "contenido",
+        "transmite"
+      ],
+      "respuesta": "El mensaje es la información, idea o contenido que el emisor transmite al receptor."
+    },
+    {
+      "id": 11,
+      "categoria": "comunicacion_oral_elementos",
+      "pregunta": "¿Qué es el canal de comunicación?",
+      "variantes_voz": [
+        "que es el canal de comunicacion",
+        "define canal",
+        "por donde viaja el mensaje",
+        "cual es el medio de comunicacion",
+        "que medios usa la comunicacion oral",
+        "canal aire telefono o videoconferencia"
+      ],
+      "palabras_clave": [
+        "canal",
+        "medio",
+        "aire",
+        "telefono",
+        "videoconferencia"
+      ],
+      "respuesta": "El canal es el medio físico por el que viaja el mensaje. En la comunicación oral puede ser el aire, el teléfono o una videoconferencia."
+    },
+    {
+      "id": 12,
+      "categoria": "comunicacion_oral_elementos",
+      "pregunta": "¿Qué es el código en la comunicación oral?",
+      "variantes_voz": [
+        "que es el codigo en la comunicacion oral",
+        "define codigo de comunicacion",
+        "que significa codigo en comunicacion",
+        "cual es el idioma compartido",
+        "codigo o idioma compartido",
+        "que sistema de signos se usa"
+      ],
+      "palabras_clave": [
+        "codigo",
+        "idioma",
+        "signos",
+        "lengua",
+        "compartido"
+      ],
+      "respuesta": "El código es el sistema de signos o idioma compartido que utilizan el emisor y el receptor para elaborar y comprender el mensaje."
+    },
+    {
+      "id": 13,
+      "categoria": "comunicacion_oral_elementos",
+      "pregunta": "¿Qué es el contexto o situación comunicativa?",
+      "variantes_voz": [
+        "que es el contexto o situacion comunicativa",
+        "que es la situacion comunicativa",
+        "define contexto en la comunicacion",
+        "que significa contexto",
+        "momento y lugar de la comunicacion",
+        "donde ocurre la comunicacion"
+      ],
+      "palabras_clave": [
+        "contexto",
+        "situacion",
+        "momento",
+        "lugar",
+        "circunstancias"
+      ],
+      "respuesta": "El contexto o situación comunicativa es el conjunto de circunstancias en que ocurre la comunicación, especialmente el momento, el lugar, las personas y el propósito."
+    },
+    {
+      "id": 14,
+      "categoria": "comunicacion_oral_tipos",
+      "pregunta": "¿Qué diferencia hay entre la comunicación oral espontánea y la planificada?",
+      "variantes_voz": [
+        "diferencia entre comunicacion espontanea y planificada",
+        "que es comunicacion espontanea y planificada",
+        "compara la comunicacion espontanea con la planificada",
+        "tipos de comunicacion oral",
+        "diferencia entre conversacion y exposicion",
+        "como se distinguen espontanea y planificada"
+      ],
+      "palabras_clave": [
+        "espontanea",
+        "planificada",
+        "informal",
+        "organizada",
+        "estructura"
+      ],
+      "respuesta": "La comunicación espontánea es informal, libre y sin una estructura previa. La comunicación planificada es formal, organizada y preparada con anticipación."
+    },
+    {
+      "id": 15,
+      "categoria": "comunicacion_oral_tipos",
+      "pregunta": "¿Cuáles son ejemplos de comunicación oral espontánea?",
+      "variantes_voz": [
+        "ejemplos de comunicacion oral espontanea",
+        "dame un ejemplo de comunicacion espontanea",
+        "cuales son ejemplos espontaneos",
+        "una conversacion entre amigos es espontanea",
+        "menciona comunicaciones espontaneas",
+        "ejemplo de comunicacion informal"
+      ],
+      "palabras_clave": [
+        "espontanea",
+        "conversacion",
+        "amigos",
+        "informal",
+        "libre"
+      ],
+      "respuesta": "Son ejemplos de comunicación oral espontánea una conversación entre amigos, una charla familiar o un diálogo cotidiano que surge sin preparación previa."
+    },
+    {
+      "id": 16,
+      "categoria": "comunicacion_oral_tipos",
+      "pregunta": "¿Cuáles son ejemplos de comunicación oral planificada?",
+      "variantes_voz": [
+        "ejemplos de comunicacion oral planificada",
+        "dame ejemplos de comunicacion planificada",
+        "cuales son ejemplos planificados",
+        "una exposicion es comunicacion planificada",
+        "menciona comunicaciones formales",
+        "ejemplos de exposicion debate y conferencia"
+      ],
+      "palabras_clave": [
+        "planificada",
+        "exposicion",
+        "clase magistral",
+        "debate",
+        "conferencia"
+      ],
+      "respuesta": "Son ejemplos de comunicación oral planificada una exposición, una clase magistral, un debate organizado y una conferencia."
+    },
+    {
+      "id": 17,
+      "categoria": "comunicacion_oral_recursos",
+      "pregunta": "¿Qué recursos no verbales apoyan la comunicación oral?",
+      "variantes_voz": [
+        "que recursos no verbales apoyan la comunicacion oral",
+        "que acompaña a la voz al hablar",
+        "que elementos no verbales se usan",
+        "gestos mirada postura tono y volumen",
+        "como se apoya la comunicacion oral",
+        "recursos no verbales del habla"
+      ],
+      "palabras_clave": [
+        "gestos",
+        "mirada",
+        "postura",
+        "tono",
+        "volumen",
+        "voz"
+      ],
+      "respuesta": "La comunicación oral se apoya en los gestos, la mirada, la postura corporal, las expresiones faciales, el tono y el volumen de la voz. Estos recursos ayudan a transmitir intención y emociones."
+    },
+    {
+      "id": 18,
+      "categoria": "comunicacion_oral_comprension",
+      "pregunta": "¿Por qué es importante que el emisor y el receptor compartan el mismo idioma?",
+      "variantes_voz": [
+        "por que es importante compartir el mismo idioma",
+        "por que emisor y receptor usan el mismo codigo",
+        "para que sirve el idioma compartido",
+        "importancia del codigo compartido",
+        "que pasa si no comparten el idioma",
+        "como ayuda el idioma a comprender el mensaje"
+      ],
+      "palabras_clave": [
+        "idioma",
+        "codigo",
+        "compartido",
+        "comprender",
+        "mensaje"
+      ],
+      "respuesta": "Es importante porque permite que el emisor construya el mensaje y que el receptor lo comprenda. Si no comparten el mismo código o idioma, pueden producirse confusiones."
+    },
+    {
+      "id": 19,
+      "categoria": "metodo_craft",
+      "pregunta": "¿Qué es el método CRAFT?",
+      "variantes_voz": [
+        "que es el metodo craft",
+        "que significa craft",
+        "explica el metodo craft",
+        "para que sirve craft",
+        "que es craft en chat gpt",
+        "metodo craft para hacer solicitudes"
+      ],
+      "palabras_clave": [
+        "craft",
+        "metodo",
+        "solicitud",
+        "chatgpt",
+        "instruccion"
+      ],
+      "respuesta": "El método CRAFT es una forma de organizar una solicitud para que ChatGPT comprenda con claridad lo que se necesita. Considera el rol, el contexto, la tarea, la audiencia, el formato y el tono."
+    },
+    {
+      "id": 20,
+      "categoria": "metodo_craft",
+      "pregunta": "¿Cuáles son los elementos del método CRAFT?",
+      "variantes_voz": [
+        "cuales son los elementos del metodo craft",
+        "partes del metodo craft",
+        "que contiene craft",
+        "componentes de craft",
+        "menciona los elementos de craft",
+        "rol contexto tarea audiencia formato y tono"
+      ],
+      "palabras_clave": [
+        "rol",
+        "contexto",
+        "tarea",
+        "audiencia",
+        "formato",
+        "tono"
+      ],
+      "respuesta": "Los elementos del método CRAFT son: rol, contexto, tarea, audiencia, formato y tono."
+    },
+    {
+      "id": 21,
+      "categoria": "metodo_craft",
+      "pregunta": "¿Qué significa el rol en el método CRAFT?",
+      "variantes_voz": [
+        "que significa el rol en craft",
+        "que es el rol del metodo craft",
+        "para que sirve el rol en una solicitud",
+        "define rol en craft",
+        "que papel debe asumir chat gpt",
+        "como se indica el rol"
+      ],
+      "palabras_clave": [
+        "rol",
+        "papel",
+        "identidad",
+        "perspectiva",
+        "chatgpt"
+      ],
+      "respuesta": "El rol indica el papel o la identidad que debe asumir ChatGPT para responder desde una perspectiva adecuada, por ejemplo, actuar como asistente administrativo o como docente."
+    },
+    {
+      "id": 22,
+      "categoria": "metodo_craft",
+      "pregunta": "¿Qué función cumple el contexto en el método CRAFT?",
+      "variantes_voz": [
+        "que funcion cumple el contexto en craft",
+        "que es el contexto del metodo craft",
+        "para que sirve el contexto en una solicitud",
+        "define contexto en craft",
+        "que informacion se da como contexto",
+        "por que es importante el contexto"
+      ],
+      "palabras_clave": [
+        "contexto",
+        "detalles",
+        "situacion",
+        "informacion",
+        "respuesta"
+      ],
+      "respuesta": "El contexto proporciona los datos relevantes de la situación, como el motivo, las personas, las fechas o el lugar, para que la respuesta sea específica y no genérica."
+    },
+    {
+      "id": 23,
+      "categoria": "metodo_craft",
+      "pregunta": "¿Qué es la tarea en el método CRAFT?",
+      "variantes_voz": [
+        "que es la tarea en craft",
+        "que significa tarea en el metodo craft",
+        "para que sirve la tarea en una solicitud",
+        "define tarea en craft",
+        "que debe hacer chat gpt",
+        "como se indica lo que necesito"
+      ],
+      "palabras_clave": [
+        "tarea",
+        "accion",
+        "necesidad",
+        "instruccion",
+        "redactar"
+      ],
+      "respuesta": "La tarea indica con claridad la acción concreta que debe realizar ChatGPT, por ejemplo redactar una carta, resumir un texto o elaborar una solicitud."
+    },
+    {
+      "id": 24,
+      "categoria": "metodo_craft",
+      "pregunta": "¿Qué significan la audiencia, el formato y el tono en el método CRAFT?",
+      "variantes_voz": [
+        "que significan audiencia formato y tono",
+        "que es la audiencia en craft",
+        "que es el formato y el tono",
+        "para quien va dirigido el texto",
+        "como debe presentarse y sonar la respuesta",
+        "explica audiencia formato y tono"
+      ],
+      "palabras_clave": [
+        "audiencia",
+        "destinatario",
+        "formato",
+        "estructura",
+        "tono",
+        "estilo"
+      ],
+      "respuesta": "La audiencia indica a quién va dirigido el contenido; el formato señala cómo debe organizarse o presentarse; y el tono define el estilo de la respuesta, por ejemplo formal, claro, respetuoso o persuasivo."
+    },
+    {
+      "id": 25,
+      "categoria": "solicitud_formal",
+      "pregunta": "¿Cuáles son las partes de una solicitud formal y qué contiene cada una?",
+      "variantes_voz": [
+        "cuales son las partes de una solicitud formal",
+        "partes de la solicitud",
+        "que contiene una solicitud",
+        "encabezado asunto saludo cuerpo cierre y firma",
+        "como se estructura una solicitud formal",
+        "explica las partes de una carta de solicitud"
+      ],
+      "palabras_clave": [
+        "solicitud",
+        "encabezado",
+        "asunto",
+        "saludo",
+        "cuerpo",
+        "cierre",
+        "firma"
+      ],
+      "respuesta": "Una solicitud formal contiene: encabezado, con lugar, fecha y datos del destinatario; asunto, con un resumen breve del pedido; saludo formal; cuerpo, con la introducción, motivos y argumentos; cierre, con la petición concreta y el agradecimiento; y firma, con la despedida, el nombre y el espacio para firmar."
+    }
+  ]
+}
